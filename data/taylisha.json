@@ -1,0 +1,68 @@
+{
+  "targets": [
+    {"content_area":"Cardiovascular","task":"Diagnosis","topic":"Tricuspid atresia"},
+    {"content_area":"Cardiovascular","task":"Diagnosis","topic":"Truncus arteriosus"},
+    {"content_area":"Cardiovascular","task":"Diagnostic Studies","topic":"Aortic dissection"},
+    {"content_area":"Cardiovascular","task":"Diagnostic Studies","topic":"Cardiac tamponade"},
+    {"content_area":"Cardiovascular","task":"Diagnostic Studies","topic":"Heart failure"},
+    {"content_area":"Cardiovascular","task":"Health Maintenance","topic":"Marfan syndrome"},
+
+    {"content_area":"Endocrine","task":"Clinical Intervention","topic":"Primary hyperparathyroidism"},
+    {"content_area":"Endocrine","task":"Clinical Therapeutics","topic":"Diabetes mellitus type 2"},
+    {"content_area":"Endocrine","task":"Diagnosis","topic":"Hashimoto thyroiditis"},
+    {"content_area":"Endocrine","task":"Diagnosis","topic":"Pheochromocytoma"},
+    {"content_area":"Endocrine","task":"Diagnosis","topic":"Primary adrenal insufficiency"},
+    {"content_area":"Endocrine","task":"Diagnostic Studies","topic":"Diabetic ketoacidosis"},
+    {"content_area":"Endocrine","task":"Diagnostic Studies","topic":"Primary aldosteronism"},
+    {"content_area":"Endocrine","task":"Health Maintenance","topic":"Multiple endocrine neoplasia 2A"},
+
+    {"content_area":"Eyes, ears, nose, oral cavity, and throat (EENOT)","task":"Clinical Intervention","topic":"Retinoblastoma"},
+    {"content_area":"Eyes, ears, nose, oral cavity, and throat (EENOT)","task":"Clinical Therapeutics","topic":"Malignant (necrotizing) external otitis"},
+    {"content_area":"Eyes, ears, nose, oral cavity, and throat (EENOT)","task":"Diagnosis","topic":"Mastoiditis"},
+    {"content_area":"Eyes, ears, nose, oral cavity, and throat (EENOT)","task":"Diagnostic Studies","topic":"Blowout fracture"},
+    {"content_area":"Eyes, ears, nose, oral cavity, and throat (EENOT)","task":"History and Physical","topic":"Acute angle-closure glaucoma"},
+
+    {"content_area":"Gastrointestinal","task":"Diagnostic Studies","topic":"Hirschsprung disease"},
+    {"content_area":"Gastrointestinal","task":"History and Physical","topic":"Intussusception"},
+
+    {"content_area":"Gynecologic/Reproductive Health","task":"Diagnosis","topic":"Leiomyoma"},
+    {"content_area":"Gynecologic/Reproductive Health","task":"Diagnosis","topic":"Ovarian cancer"},
+    {"content_area":"Gynecologic/Reproductive Health","task":"Health Maintenance","topic":"Contraception"},
+    {"content_area":"Gynecologic/Reproductive Health","task":"Health Maintenance","topic":"Hepatitis A"},
+    {"content_area":"Gynecologic/Reproductive Health","task":"History and Physical","topic":"Ovarian torsion"},
+
+    {"content_area":"Hematologic","task":"Clinical Intervention","topic":"Hemochromatosis"},
+    {"content_area":"Hematologic","task":"Clinical Therapeutics","topic":"Immune thrombocytopenia"},
+    {"content_area":"Hematologic","task":"Diagnostic Studies","topic":"Multiple myeloma"},
+
+    {"content_area":"Neurologic","task":"Clinical Intervention","topic":"Subdural hemorrhage"},
+    {"content_area":"Neurologic","task":"Clinical Intervention","topic":"Traumatic brain injury"},
+    {"content_area":"Neurologic","task":"Clinical Therapeutics","topic":"Cluster headache"},
+    {"content_area":"Neurologic","task":"Diagnosis","topic":"Amyotrophic lateral sclerosis"},
+    {"content_area":"Neurologic","task":"Diagnostic Studies","topic":"Myasthenia gravis"},
+    {"content_area":"Neurologic","task":"History and Physical","topic":"Intracranial hemorrhage"},
+    {"content_area":"Neurologic","task":"History and Physical","topic":"Parkinson disease"},
+    {"content_area":"Neurologic","task":"History and Physical","topic":"Pilocytic astrocytoma"},
+    {"content_area":"Neurologic","task":"Scientific Concepts","topic":"Acute bacterial meningitis"},
+
+    {"content_area":"Psychiatric/Behavioral Health","task":"Diagnostic Studies","topic":"Anorexia nervosa"},
+    {"content_area":"Psychiatric/Behavioral Health","task":"Health Maintenance","topic":"Anorexia nervosa"},
+    {"content_area":"Psychiatric/Behavioral Health","task":"Scientific Concepts","topic":"Generalized anxiety disorder"},
+
+    {"content_area":"Pulmonary","task":"Clinical Intervention","topic":"Secondary pneumothorax"},
+    {"content_area":"Pulmonary","task":"Clinical Intervention","topic":"Tension pneumothorax"},
+    {"content_area":"Pulmonary","task":"Clinical Therapeutics","topic":"Asthma exacerbation"},
+    {"content_area":"Pulmonary","task":"Diagnostic Studies","topic":"Pulmonary embolism"},
+    {"content_area":"Pulmonary","task":"History and Physical","topic":"Acute respiratory distress syndrome"},
+    {"content_area":"Pulmonary","task":"History and Physical","topic":"Atelectasis"},
+    {"content_area":"Pulmonary","task":"History and Physical","topic":"Mycoplasma pneumonia"},
+
+    {"content_area":"Renal/Genitourinary","task":"Clinical Intervention","topic":"Renal Cell Carcinoma"},
+    {"content_area":"Renal/Genitourinary","task":"Diagnostic Studies","topic":"Acute pyelonephritis"},
+    {"content_area":"Renal/Genitourinary","task":"History and Physical","topic":"Hypocalcemia"},
+    {"content_area":"Renal/Genitourinary","task":"Professional Practice","topic":"End-stage renal disease"},
+
+    {"content_area":"Rheumatologic/Musculoskeletal","task":"Clinical Intervention","topic":"Navicular fracture"},
+    {"content_area":"Rheumatologic/Musculoskeletal","task":"Clinical Therapeutics","topic":"Osteoarthritis"}
+  ]
+}
