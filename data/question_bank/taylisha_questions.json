@@ -2119,6 +2119,642 @@
         }
       ],
       "teaching_point": "In suspected tension pneumothorax, immediate decompression is the priority; do not wait for confirmatory imaging in an unstable patient."
+    },
+    {
+      "content_area": "Psychiatric/Behavioral Health",
+      "task": "Scientific Concepts",
+      "topic": "Generalized anxiety disorder",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 34-year-old woman comes to clinic for persistent worry. For the past 9 months, she has felt \u201con edge\u201d about work performance, her children\u2019s safety, and finances nearly every day. She has difficulty controlling the worry, trouble sleeping, muscle tension, and fatigue. She denies panic attacks, obsessive thoughts, trauma exposure, manic symptoms, or substance use. Her exam is normal except for mild tremulousness. Her primary care clinician explains that her symptoms are consistent with a disorder involving dysregulation of a key inhibitory neurotransmitter in the brain.",
+      "lead_in": "Which neurotransmitter is most directly implicated in the pathophysiology of this disorder?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "Acetylcholine"
+        },
+        {
+          "letter": "C",
+          "text": "Dopamine"
+        },
+        {
+          "letter": "D",
+          "text": "Gamma-aminobutyric acid (GABA)"
+        },
+        {
+          "letter": "E",
+          "text": "Serotonin"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "Generalized anxiety disorder is associated with reduced inhibitory signaling in the central nervous system, especially involving GABA. Many first-line treatments for anxiety disorders, including benzodiazepines, enhance GABA-A receptor activity, reflecting this pathophysiology.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Glutamate is the major excitatory neurotransmitter; while it may play a role in anxiety circuitry, generalized anxiety disorder is classically linked to impaired GABA-mediated inhibition."
+        },
+        {
+          "letter": "B",
+          "explanation": "Acetylcholine is primarily associated with neuromuscular transmission, autonomic function, and memory rather than the main inhibitory neurotransmitter deficit in generalized anxiety disorder."
+        },
+        {
+          "letter": "C",
+          "explanation": "Dopamine is more closely associated with reward, psychosis, and movement pathways than the core inhibitory neurotransmitter dysfunction implicated in generalized anxiety disorder."
+        },
+        {
+          "letter": "E",
+          "explanation": "Serotonin is involved in anxiety regulation and is a target of SSRIs, but the key inhibitory neurotransmitter classically implicated in generalized anxiety disorder is GABA."
+        }
+      ],
+      "teaching_point": "Generalized anxiety disorder is classically associated with decreased GABA-mediated inhibitory signaling in the CNS."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "History and Physical",
+      "topic": "Atelectasis",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 58-year-old man comes to clinic 2 days after laparoscopic abdominal surgery. He reports mild shortness of breath and discomfort taking a deep breath because of incisional pain. He has been spending most of the day in bed and is using his prescribed opioid medication regularly. He denies fever, chest pain, leg swelling, or productive cough. Temperature is 37.1 C (98.8 F), blood pressure is 128/76 mm Hg, pulse is 92/min, respiratory rate is 18/min, and oxygen saturation is 95% on room air. On exam, he is taking shallow breaths. Lung examination reveals decreased breath sounds and fine crackles at the right base that improve after several coached deep breaths and coughing.",
+      "lead_in": "Which historical and physical examination finding most strongly supports the cause of this patient\u2019s symptoms?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Productive cough with purulent sputum and focal egophony"
+        },
+        {
+          "letter": "B",
+          "text": "Recent postoperative shallow breathing with decreased basilar breath sounds that improve after deep inspiration"
+        },
+        {
+          "letter": "C",
+          "text": "Fever with pleuritic chest pain and unilateral leg swelling"
+        },
+        {
+          "letter": "D",
+          "text": "Sudden dyspnea with hemoptysis after a recent long-distance flight"
+        },
+        {
+          "letter": "E",
+          "text": "Diffuse wheezing that worsens at night and improves with albuterol"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "This patient most likely has postoperative atelectasis caused by shallow breathing, splinting from incisional pain, and relative immobility. The key history is recent surgery with opioid use and limited deep breathing, and the key physical finding is decreased basilar breath sounds with crackles that improve after coached deep breaths and coughing, which is typical of reversible alveolar collapse from poor ventilation. Mild dyspnea with normal oxygenation and no infectious or thromboembolic features also supports atelectasis rather than pneumonia or pulmonary embolism.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Productive cough, purulent sputum, and egophony suggest pneumonia. This patient lacks fever, sputum production, and focal signs of consolidation."
+        },
+        {
+          "letter": "C",
+          "explanation": "Fever, pleuritic chest pain, and unilateral leg swelling would raise concern for pulmonary embolism or deep vein thrombosis, not postoperative atelectasis. This patient has no fever or leg findings."
+        },
+        {
+          "letter": "D",
+          "explanation": "Sudden dyspnea and hemoptysis after prolonged travel suggests pulmonary embolism, which is usually not associated with crackles that improve after deep breathing."
+        },
+        {
+          "letter": "E",
+          "explanation": "Diffuse nocturnal wheezing relieved by albuterol is more consistent with asthma. Atelectasis typically causes localized diminished breath sounds and improves with incentive-type maneuvers or coughing."
+        }
+      ],
+      "teaching_point": "Postoperative atelectasis is suggested by shallow breathing, immobility, and basilar breath sounds that improve with deep inspiration and coughing."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "History and Physical",
+      "topic": "Pilocytic astrocytoma",
+      "setting": "Perioperative",
+      "life_course": "Pediatric",
+      "cognitive_level": "Remember",
+      "vignette": "A 9-year-old boy is brought for preoperative evaluation before planned resection of a cerebellar mass found on MRI after several months of morning headaches, vomiting, and unsteady gait. His parents report that he has also been \"tilting\" his head to one side to keep objects in view. On exam, he is alert with normal speech. He has broad-based gait, impaired rapid alternating movements, and horizontal nystagmus on lateral gaze. Vital signs are normal.",
+      "lead_in": "Which additional physical examination finding is most likely in this child?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Resting tremor that decreases with voluntary movement"
+        },
+        {
+          "letter": "B",
+          "text": "Increased head circumference with bulging anterior fontanelle"
+        },
+        {
+          "letter": "C",
+          "text": "Ptosis with miosis and anhidrosis on one side of the face"
+        },
+        {
+          "letter": "D",
+          "text": "Papilledema"
+        },
+        {
+          "letter": "E",
+          "text": "Hyperreflexia with ankle clonus"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "Pilocytic astrocytoma is a common pediatric posterior fossa tumor. In this child, the combination of morning headaches, vomiting, and cerebellar signs suggests a mass causing obstructive hydrocephalus and increased intracranial pressure. Papilledema is a classic additional physical examination finding in increased intracranial pressure. The cerebellar findings in the vignette already indicate posterior fossa involvement, and papilledema best explains the associated headache and vomiting.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "A resting tremor that decreases with voluntary movement is characteristic of parkinsonism, not a cerebellar tumor."
+        },
+        {
+          "letter": "B",
+          "explanation": "Increased head circumference with a bulging anterior fontanelle is a sign of elevated intracranial pressure in infants with open fontanelles, not in a 9-year-old child."
+        },
+        {
+          "letter": "C",
+          "explanation": "Ptosis, miosis, and anhidrosis are features of Horner syndrome, which is not the expected finding with a cerebellar tumor or obstructive hydrocephalus."
+        },
+        {
+          "letter": "E",
+          "explanation": "Hyperreflexia with ankle clonus suggests an upper motor neuron or spinal cord process, which does not fit a cerebellar posterior fossa mass."
+        }
+      ],
+      "teaching_point": "Posterior fossa tumors in children commonly cause cerebellar signs such as ataxia and nystagmus and may also produce increased intracranial pressure with papilledema, morning headache, and vomiting."
+    },
+    {
+      "content_area": "Gastrointestinal",
+      "task": "History and Physical",
+      "topic": "Intussusception",
+      "setting": "Emergency Department",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 10-month-old boy is brought to the emergency department for intermittent episodes of severe crying and knee-flexing over the past 8 hours. Between episodes, he appears tired but consolable. His parents report three episodes of nonbilious vomiting and a stool that looked \"dark and jelly-like.\" He had an upper respiratory infection 1 week ago. On examination, his temperature is 37.8 C (100.0 F), heart rate is 158/min, and blood pressure is 86/52 mm Hg. His abdomen is mildly distended, and he cries when it is palpated. During one episode, he draws his legs up and becomes pale.",
+      "lead_in": "Which additional physical examination finding would be most consistent with this child's condition?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Bilious vomiting with a scaphoid abdomen and decreased bowel sounds"
+        },
+        {
+          "letter": "B",
+          "text": "A palpable olive-like mass in the epigastrium"
+        },
+        {
+          "letter": "C",
+          "text": "Right lower quadrant tenderness with involuntary guarding and rebound"
+        },
+        {
+          "letter": "D",
+          "text": "A sausage-shaped abdominal mass in the right upper quadrant"
+        },
+        {
+          "letter": "E",
+          "text": "Diffuse abdominal distension with delayed passage of meconium since birth"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This infant has intussusception, suggested by intermittent colicky abdominal pain, episodic leg-drawing, nonbilious vomiting, and currant jelly stool. A characteristic physical examination finding is a palpable sausage-shaped abdominal mass, often in the right upper quadrant or epigastrium, caused by telescoping of one bowel segment into another. The child can also appear lethargic between painful episodes.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Bilious vomiting with a scaphoid abdomen suggests malrotation with midgut volvulus or another obstructive process causing distal intestinal obstruction, not the classic presentation of intussusception."
+        },
+        {
+          "letter": "B",
+          "explanation": "A palpable olive-like epigastric mass is classic for hypertrophic pyloric stenosis, which typically causes progressive projectile nonbilious vomiting in a younger infant and does not cause currant jelly stools."
+        },
+        {
+          "letter": "C",
+          "explanation": "Right lower quadrant tenderness with guarding and rebound is more suggestive of appendicitis or peritonitis; appendicitis is uncommon at this age and does not typically present with currant jelly stool."
+        },
+        {
+          "letter": "E",
+          "explanation": "Diffuse abdominal distension with delayed passage of meconium since birth is more consistent with Hirschsprung disease, especially if associated with constipation and failure to thrive, rather than acute intermittent colicky pain."
+        }
+      ],
+      "teaching_point": "Intussusception in infants classically causes intermittent colicky pain, vomiting, lethargy, currant jelly stool, and a sausage-shaped abdominal mass."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Clinical Intervention",
+      "topic": "Primary hyperparathyroidism",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 58-year-old woman is seen in clinic for fatigue and intermittent constipation. She has no history of kidney stones or fractures. She takes no calcium supplements and her only medication is lisinopril. She has had repeated outpatient labs over the past 6 months showing mild hypercalcemia, with total calcium 10.9-11.2 mg/dL, albumin normal, intact parathyroid hormone elevated, and creatinine normal. A 24-hour urine calcium is not low. Bone density testing shows osteopenia at the lumbar spine. She asks what the best next step in management is.",
+      "lead_in": "Which is the most appropriate next management step?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Start cinacalcet therapy"
+        },
+        {
+          "letter": "B",
+          "text": "Reassure her that no treatment or follow-up is needed"
+        },
+        {
+          "letter": "C",
+          "text": "Begin loop diuretic therapy"
+        },
+        {
+          "letter": "D",
+          "text": "Refer for parathyroidectomy"
+        },
+        {
+          "letter": "E",
+          "text": "Start high-dose vitamin D and oral calcium supplementation"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has primary hyperparathyroidism with persistent mild hypercalcemia, inappropriately elevated PTH, and evidence of skeletal involvement (osteopenia). In symptomatic patients or those with guideline-based indications such as reduced bone density, surgery is the definitive treatment and is the most appropriate next step in an outpatient setting.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Cinacalcet can lower calcium in primary hyperparathyroidism, but it is generally used when surgery is not possible or not desired, not as the preferred definitive management in an otherwise appropriate surgical candidate."
+        },
+        {
+          "letter": "B",
+          "explanation": "Observation alone is reserved for selected asymptomatic patients without indications for surgery. This patient has persistent hypercalcemia and decreased bone density, so follow-up without intervention would be inappropriate."
+        },
+        {
+          "letter": "C",
+          "explanation": "Loop diuretics are not used chronically to treat primary hyperparathyroidism and can worsen volume depletion. They may transiently increase urinary calcium excretion but are not appropriate outpatient management here."
+        },
+        {
+          "letter": "E",
+          "explanation": "Vitamin D deficiency should be corrected if present, but high-dose calcium supplementation would worsen hypercalcemia and is not appropriate treatment for primary hyperparathyroidism."
+        }
+      ],
+      "teaching_point": "Primary hyperparathyroidism is definitively treated with parathyroidectomy when patients have symptoms or complications such as low bone density, kidney stones, significant hypercalcemia, or reduced renal function."
+    },
+    {
+      "content_area": "Hematologic",
+      "task": "Clinical Intervention",
+      "topic": "Hemochromatosis",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 49-year-old man comes to the clinic for fatigue, decreased libido, and vague right upper quadrant discomfort. He reports that his skin has become darker over the past year despite no change in sun exposure. His father died of \"liver disease\" in his 50s. Examination shows mild hepatomegaly and bronze hyperpigmentation of the skin. Laboratory studies reveal ferritin 980 ng/mL, transferrin saturation 68%, and mildly elevated AST and ALT. Hepatitis B and C testing is negative.",
+      "lead_in": "Which of the following is the most appropriate initial treatment?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Order HFE genotyping to confirm hereditary hemochromatosis before starting treatment"
+        },
+        {
+          "letter": "B",
+          "text": "Begin high-dose prednisone to reduce hepatic inflammation"
+        },
+        {
+          "letter": "C",
+          "text": "Administer deferoxamine because this is the preferred initial treatment for all iron overload states"
+        },
+        {
+          "letter": "D",
+          "text": "Begin therapeutic phlebotomy and monitor ferritin until iron stores normalize"
+        },
+        {
+          "letter": "E",
+          "text": "Start oral iron supplementation and recheck blood counts in 3 months"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has findings strongly suggestive of hereditary hemochromatosis, including fatigue, hypogonadal symptoms, hepatomegaly, bronze skin hyperpigmentation, elevated ferritin, and increased transferrin saturation. In a stable outpatient with suspected or confirmed hereditary hemochromatosis and no contraindication such as severe anemia, the initial treatment is therapeutic phlebotomy to remove excess iron and prevent complications such as cirrhosis, diabetes, cardiomyopathy, and hypogonadism. Ferritin is followed serially to guide treatment toward iron depletion, and patients are also evaluated for complications and, when appropriate, HFE mutation testing.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "HFE genotyping can help confirm the diagnosis, but treatment should not be delayed in a patient with a classic presentation and clear iron overload. Therapeutic phlebotomy is the initial treatment, provided hemoglobin is adequate."
+        },
+        {
+          "letter": "B",
+          "explanation": "Glucocorticoids do not treat hereditary hemochromatosis and would not reduce excess iron deposition."
+        },
+        {
+          "letter": "C",
+          "explanation": "Iron chelation is generally reserved for patients who cannot undergo phlebotomy, such as those with significant anemia or some transfusion-related iron overload states. It is not first-line for uncomplicated hereditary hemochromatosis."
+        },
+        {
+          "letter": "E",
+          "explanation": "Oral iron would worsen iron overload and is inappropriate in a patient with markedly elevated ferritin and transferrin saturation."
+        }
+      ],
+      "teaching_point": "Hereditary hemochromatosis is treated first-line with therapeutic phlebotomy, with ferritin monitoring and assessment for end-organ complications."
+    },
+    {
+      "content_area": "Gynecologic/Reproductive Health",
+      "task": "Health Maintenance",
+      "topic": "Contraception",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 29-year-old woman comes to an outpatient clinic for contraception counseling. She had a copper IUD removed 2 months ago because of heavier menses and wants a method that is highly effective, requires little daily attention, and may make her periods lighter. She has migraines with aura, takes no medications, and smokes 5 cigarettes per day. Her blood pressure is 118/74 mm Hg, BMI is 24 kg/m2, and urine pregnancy test is negative. She says she is certain she does not want pregnancy for several years and asks for the best option today.",
+      "lead_in": "Which contraceptive method is the most appropriate recommendation for this patient?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Etonogestrel implant"
+        },
+        {
+          "letter": "B",
+          "text": "Progestin-only pill"
+        },
+        {
+          "letter": "C",
+          "text": "Depot medroxyprogesterone acetate injection"
+        },
+        {
+          "letter": "D",
+          "text": "Combined oral contraceptive pill"
+        },
+        {
+          "letter": "E",
+          "text": "Levonorgestrel-releasing intrauterine device"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "The levonorgestrel-releasing intrauterine device is the best choice because it is highly effective, long-acting, requires minimal adherence, and commonly decreases menstrual bleeding, which matches her desire for lighter periods after heavier bleeding with a copper IUD. It is also appropriate in a patient with migraine with aura, in whom estrogen-containing contraception should be avoided because of increased stroke risk. Her negative pregnancy test and desire for several years of contraception make same-day placement appropriate if there are no other contraindications.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "The etonogestrel implant is highly effective and avoids estrogen, but it commonly causes irregular, unpredictable bleeding. Because she specifically wants lighter periods after prior problems with bleeding, this is less appropriate than a levonorgestrel IUD."
+        },
+        {
+          "letter": "B",
+          "explanation": "The progestin-only pill avoids estrogen and is safe with migraine with aura, but it requires strict daily timing and is less effective in typical use than long-acting reversible methods. It does not fit her request for minimal day-to-day attention."
+        },
+        {
+          "letter": "C",
+          "explanation": "Depot medroxyprogesterone acetate is an effective progestin-only option, but it can cause irregular bleeding and may not satisfy her preference for lighter, more predictable menses. It is also less immediately reversible than an IUD and is not the best match for her goals."
+        },
+        {
+          "letter": "D",
+          "explanation": "Combined oral contraceptive pills contain estrogen and are contraindicated in patients with migraine with aura because of increased ischemic stroke risk. They also require daily adherence and are less ideal for someone seeking a low-maintenance method."
+        }
+      ],
+      "teaching_point": "In patients with migraine with aura, avoid estrogen-containing contraception; a levonorgestrel IUD is a strong long-acting option when lighter menses are desired."
+    },
+    {
+      "content_area": "Eyes, ears, nose, oral cavity, and throat (EENOT)",
+      "task": "Clinical Intervention",
+      "topic": "Retinoblastoma",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "An 8-week-old infant is brought to an outpatient pediatric clinic because the parents have noticed a pale reflection in photographs of the baby\u2019s right eye for the past 2 weeks. The infant is otherwise feeding well and has no fever or eye discharge. On exam, there is an abnormal white pupillary reflex in the right eye and a subtle strabismus. The anterior segment appears clear, and the red reflex is diminished on the affected side.",
+      "lead_in": "What is the most appropriate next step in management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Prescribe topical antibiotic drops and reassess in 1 week"
+        },
+        {
+          "letter": "B",
+          "text": "Order a plain orbital x-ray to evaluate for a calcified ocular lesion"
+        },
+        {
+          "letter": "C",
+          "text": "Arrange urgent referral to pediatric ophthalmology and ocular oncology for prompt evaluation and treatment"
+        },
+        {
+          "letter": "D",
+          "text": "Reassure the parents that this finding is a normal variant in infants"
+        },
+        {
+          "letter": "E",
+          "text": "Schedule routine vision screening at the 12-month well-child visit"
+        }
+      ],
+      "correct_answer": "C",
+      "rationale": "This infant has leukocoria and strabismus, which are concerning for retinoblastoma and require urgent specialist evaluation. In an outpatient setting, the correct next step is immediate referral to pediatric ophthalmology/ocular oncology rather than watchful waiting or empiric treatment. Retinoblastoma is an ophthalmic emergency because prompt diagnosis and treatment are needed to preserve vision and reduce the risk of extraocular spread and metastatic disease.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Topical antibiotics may be appropriate for conjunctivitis, but this presentation lacks discharge, conjunctival injection, or eyelid inflammation. Leukocoria is not managed as an infection."
+        },
+        {
+          "letter": "B",
+          "explanation": "Imaging may be used in the workup, but a plain orbital x-ray is not the appropriate next step. The child needs urgent specialist evaluation with ophthalmic examination and appropriate imaging, typically including ocular ultrasound and MRI when indicated."
+        },
+        {
+          "letter": "D",
+          "explanation": "A white pupillary reflex is not a normal variant. Leukocoria is a red-flag finding that can indicate retinoblastoma or other serious ocular pathology."
+        },
+        {
+          "letter": "E",
+          "explanation": "Waiting for routine screening would delay diagnosis of a potentially vision- and life-threatening condition. Suspected retinoblastoma warrants urgent action now."
+        }
+      ],
+      "teaching_point": "Leukocoria in an infant is retinoblastoma until proven otherwise and requires urgent ophthalmology referral."
+    },
+    {
+      "content_area": "Gynecologic/Reproductive Health",
+      "task": "Diagnosis",
+      "topic": "Ovarian cancer",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 61-year-old woman presents to her primary care clinic with 4 months of progressive bloating, early satiety, and intermittent pelvic pressure. She reports needing to urinate more often but denies dysuria or hematuria. She has also noticed that her clothes fit more tightly despite no major change in diet. She is postmenopausal and has no history of hormone use. Pelvic examination shows mild fullness in the left adnexa without tenderness. Her abdominal exam is otherwise benign. A urine pregnancy test is negative.",
+      "lead_in": "What is the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Endometriosis"
+        },
+        {
+          "letter": "B",
+          "text": "Irritable bowel syndrome"
+        },
+        {
+          "letter": "C",
+          "text": "Benign ovarian cyst"
+        },
+        {
+          "letter": "D",
+          "text": "Urinary tract infection"
+        },
+        {
+          "letter": "E",
+          "text": "Ovarian cancer"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Ovarian cancer is the most likely diagnosis. In a postmenopausal woman, several months of persistent bloating, early satiety, pelvic pressure, and urinary frequency are concerning for an ovarian malignancy, especially when pelvic examination reveals adnexal fullness. Ovarian cancer often presents with vague gastrointestinal and urinary symptoms and is commonly diagnosed late because the presentation can mimic benign disorders.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Endometriosis may cause pelvic pain and adnexal findings, but it usually begins earlier in reproductive life and is less likely to present for the first time after menopause with this pattern of symptoms."
+        },
+        {
+          "letter": "B",
+          "explanation": "Irritable bowel syndrome can cause bloating, but it would not explain adnexal fullness on examination or the postmenopausal onset of persistent early satiety and pelvic pressure."
+        },
+        {
+          "letter": "C",
+          "explanation": "A benign ovarian cyst can cause adnexal fullness, but the prolonged, progressive symptoms in a postmenopausal patient\u2014especially bloating and early satiety\u2014are more concerning for malignancy."
+        },
+        {
+          "letter": "D",
+          "explanation": "A urinary tract infection can cause urinary frequency, but it would not typically cause months of progressive bloating, early satiety, or adnexal fullness, and the absence of dysuria makes it less likely."
+        }
+      ],
+      "teaching_point": "In postmenopausal patients, persistent bloating, early satiety, urinary frequency, and adnexal fullness should raise concern for ovarian cancer."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "History and Physical",
+      "topic": "Parkinson disease",
+      "setting": "Emergency Department",
+      "life_course": "Geriatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 78-year-old man is brought to the emergency department by his daughter because of increasing confusion and a new inability to walk over the past 2 days. He has a 10-year history of Parkinson disease treated with carbidopa-levodopa. His daughter reports that he has been taking his medications inconsistently since developing nausea and poor appetite, and he has spent most of the last 2 days in bed. In the ED, he is afebrile, blood pressure is 148/84 mm Hg, pulse is 92/min, and respiratory rate is 16/min. He is alert but slow to respond. He has marked rigidity, a resting tremor, and severe bradykinesia. There is no focal weakness. When asked to stand, he requires two people to assist and shuffles forward with very short steps. His mucous membranes are dry.",
+      "lead_in": "Which history or physical examination finding in this patient is the most concerning clue that his acute decline is due to worsening Parkinson symptoms rather than a new structural neurologic event?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "The need for two-person assistance to stand and ambulate"
+        },
+        {
+          "letter": "B",
+          "text": "The dry mucous membranes on examination"
+        },
+        {
+          "letter": "C",
+          "text": "The resting tremor that is present during the examination"
+        },
+        {
+          "letter": "D",
+          "text": "The marked increase in rigidity and bradykinesia after missed doses of carbidopa-levodopa"
+        },
+        {
+          "letter": "E",
+          "text": "The mild slowing in his response to questions"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "Missed doses of carbidopa-levodopa followed by worsening rigidity, bradykinesia, and gait dysfunction strongly support an acute exacerbation of Parkinson disease symptoms from dopaminergic withdrawal or undertreatment. In a patient with known Parkinson disease, this pattern is a key historical clue that the decline is medication-related rather than caused by a new focal structural lesion such as stroke, especially because the exam lacks focal weakness or other lateralizing findings.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Severe gait impairment is concerning, but without the medication history it is less specific. In Parkinson disease, loss of ambulation can occur during medication interruption and does not by itself distinguish this from another acute neurologic process."
+        },
+        {
+          "letter": "B",
+          "explanation": "Dry mucous membranes suggest dehydration, which may contribute to weakness or delirium, but they are nonspecific and do not specifically point to Parkinson symptom worsening over a structural neurologic cause."
+        },
+        {
+          "letter": "C",
+          "explanation": "A resting tremor is a classic chronic feature of Parkinson disease, but by itself it does not explain the acute deterioration or help distinguish medication-related worsening from a new neurologic event."
+        },
+        {
+          "letter": "E",
+          "explanation": "Mild slowed responses may reflect baseline Parkinson-related bradyphrenia, medication effects, or delirium; it is nonspecific and does not identify the key clue that the decline followed missed dopaminergic therapy."
+        }
+      ],
+      "teaching_point": "In known Parkinson disease, an acute worsening of rigidity, bradykinesia, and gait after missed levodopa doses is a major clue to medication-related decompensation rather than a new focal neurologic lesion."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "History and Physical",
+      "topic": "Intracranial hemorrhage",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 68-year-old man comes to a primary care clinic because of a headache that started 2 days ago and has steadily worsened. He reports mild nausea and feels \"off balance\" when walking. Three weeks ago he slipped on ice and struck the left side of his head, but he did not lose consciousness and did not seek care because he felt fine afterward. He takes warfarin for atrial fibrillation. His blood pressure is 138/82 mm Hg, pulse is 76/min, and he is afebrile. He is alert and oriented. Neurologic examination shows slight right pronator drift, slowed rapid alternating movements in the right hand, and a mildly unsteady gait. Pupils are equal and reactive, and there is no neck stiffness.",
+      "lead_in": "Which historical finding in this patient is the strongest clue that his symptoms are due to an intracranial hemorrhage rather than a primary headache disorder?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "He is able to remain alert and oriented"
+        },
+        {
+          "letter": "B",
+          "text": "He has a family history of migraine headaches"
+        },
+        {
+          "letter": "C",
+          "text": "He has mild nausea with the headache"
+        },
+        {
+          "letter": "D",
+          "text": "His blood pressure is mildly elevated at the clinic visit"
+        },
+        {
+          "letter": "E",
+          "text": "The headache began several days after a minor head injury"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "A delayed, progressively worsening headache after even minor head trauma is a classic historical clue for intracranial hemorrhage, especially a subdural hematoma. The risk is further increased by warfarin use, and the focal neurologic findings support an intracranial process rather than a primary headache disorder.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Being alert and oriented does not exclude intracranial hemorrhage; many patients with subdural hematoma remain awake and have subtle focal findings early on."
+        },
+        {
+          "letter": "B",
+          "explanation": "A family history of migraine may support a primary headache disorder, but it does not explain the delayed onset after head trauma or the focal neurologic deficits."
+        },
+        {
+          "letter": "C",
+          "explanation": "Nausea can occur with many headache syndromes, including migraine and intracranial hemorrhage, so it is not the strongest clue here."
+        },
+        {
+          "letter": "D",
+          "explanation": "Mildly elevated blood pressure is common during pain or stress and is not a specific clue to intracranial hemorrhage in this presentation."
+        }
+      ],
+      "teaching_point": "In an outpatient patient with headache after recent head trauma, especially on anticoagulation, a delayed worsening course and focal deficits should raise concern for intracranial hemorrhage."
+    },
+    {
+      "content_area": "Hematologic",
+      "task": "Diagnostic Studies",
+      "topic": "Multiple myeloma",
+      "setting": "Inpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 68-year-old man is admitted for worsening fatigue, diffuse back pain, and decreased appetite over 3 months. He also reports intermittent constipation and has had two recent falls. Vital signs are normal. Exam shows pallor and midline tenderness over the lower thoracic spine. Laboratory studies reveal hemoglobin 8.9 g/dL, creatinine 2.1 mg/dL (baseline 1.0), calcium 11.4 mg/dL, and total protein 9.8 g/dL with albumin 2.7 g/dL. Urinalysis is negative for blood and infection. Plain lumbar spine radiographs show no acute fracture.",
+      "lead_in": "Which diagnostic study is the best next step to evaluate the suspected underlying disorder causing this patient's anemia, renal dysfunction, hypercalcemia, and bone pain?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Computed tomography of the chest, abdomen, and pelvis with contrast"
+        },
+        {
+          "letter": "B",
+          "text": "Urine calcium-to-creatinine clearance ratio"
+        },
+        {
+          "letter": "C",
+          "text": "Serum parathyroid hormone level"
+        },
+        {
+          "letter": "D",
+          "text": "Thoracic spine magnetic resonance imaging"
+        },
+        {
+          "letter": "E",
+          "text": "Serum protein electrophoresis with immunofixation, serum free light chain assay, and urine protein electrophoresis with immunofixation"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This patient has findings strongly suggestive of multiple myeloma, including anemia, renal dysfunction, hypercalcemia, bone pain, and elevated total protein with a low albumin level, which implies a large globulin gap. The best next diagnostic step is to look for monoclonal protein with serum protein electrophoresis and immunofixation, serum free light chain assay, and urine protein electrophoresis with immunofixation. These studies are the appropriate initial laboratory evaluation for suspected plasma cell dyscrasia; bone marrow biopsy is used after monoclonal protein testing supports the diagnosis.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "CT of the chest, abdomen, and pelvis may help evaluate metastatic malignancy or other structural disease, but it does not directly assess for monoclonal protein and is not the best initial study when multiple myeloma is suspected."
+        },
+        {
+          "letter": "B",
+          "explanation": "A urine calcium-to-creatinine clearance ratio is used to help distinguish familial hypocalciuric hypercalcemia from primary hyperparathyroidism and does not evaluate a suspected plasma cell dyscrasia."
+        },
+        {
+          "letter": "C",
+          "explanation": "A parathyroid hormone level is useful in the evaluation of hypercalcemia, but this patient's anemia, renal dysfunction, bone pain, and marked protein gap make multiple myeloma the more likely underlying disorder to evaluate first."
+        },
+        {
+          "letter": "D",
+          "explanation": "Thoracic spine MRI can identify focal marrow lesions or occult vertebral compression fractures, but it is not the best first diagnostic study for confirming suspected multiple myeloma."
+        }
+      ],
+      "teaching_point": "When multiple myeloma is suspected, initial evaluation should include serum and urine testing for monoclonal protein, along with serum free light chains; bone marrow biopsy follows to confirm the diagnosis."
     }
   ]
 }
