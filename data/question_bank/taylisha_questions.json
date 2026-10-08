@@ -1,0 +1,2124 @@
+{
+  "questions": [
+    {
+      "content_area": "Cardiovascular",
+      "task": "Diagnosis",
+      "topic": "Tricuspid atresia",
+      "setting": "Outpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 6-week-old infant is brought to the pediatric clinic for poor feeding and \"turning blue\" during crying. The pregnancy was uncomplicated, but the infant has had slow weight gain since birth. On exam, the infant has mild tachypnea, oxygen saturation of 82% on room air, a single loud second heart sound, and a systolic murmur at the left lower sternal border. The liver is not enlarged, and peripheral pulses are normal. The chest radiograph shows mild cardiomegaly with decreased pulmonary vascular markings.",
+      "lead_in": "Which is the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "letter": "B",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "letter": "C",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "letter": "D",
+          "text": "Ventricular septal defect"
+        },
+        {
+          "letter": "E",
+          "text": "Tricuspid atresia"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This infant most likely has tricuspid atresia, a cyanotic congenital heart disease caused by absence of the tricuspid valve. Blood cannot pass directly from the right atrium to the right ventricle, so systemic venous blood must cross an atrial septal defect to reach the left side of the heart, and pulmonary blood flow often depends on associated anatomy such as a ventricular septal defect or patent ductus arteriosus. Infants typically present in early infancy with cyanosis, poor feeding, and failure to thrive. A single loud second heart sound is classic because only one semilunar valve closure is heard distinctly. The systolic murmur at the left lower sternal border is consistent with flow across an associated ventricular septal defect. Decreased pulmonary vascular markings on chest radiograph indicate reduced pulmonary blood flow, which supports tricuspid atresia.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Tetralogy of Fallot can also cause cyanosis and a systolic murmur, but it more often has a harsh ejection murmur from right ventricular outflow obstruction and a boot-shaped heart, rather than a single loud second heart sound with decreased pulmonary vascular markings in this presentation."
+        },
+        {
+          "letter": "B",
+          "explanation": "Transposition of the great arteries causes severe cyanosis in the newborn period, often within the first hours to days of life. It more typically produces increased pulmonary vascular markings rather than decreased pulmonary blood flow on chest radiograph."
+        },
+        {
+          "letter": "C",
+          "explanation": "Patent ductus arteriosus usually produces a continuous machinery murmur and left-to-right shunting after birth; it does not typically cause early cyanosis with a single loud second heart sound in an otherwise uncomplicated infant."
+        },
+        {
+          "letter": "D",
+          "explanation": "A ventricular septal defect usually causes a holosystolic murmur at the left lower sternal border and, if large, pulmonary overcirculation rather than cyanosis with decreased pulmonary vascular markings."
+        }
+      ],
+      "teaching_point": "In an infant, cyanosis with a single loud second heart sound and decreased pulmonary vascular markings strongly suggests tricuspid atresia."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "History and Physical",
+      "topic": "Acute respiratory distress syndrome",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 78-year-old man is seen in clinic 10 days after being discharged from the hospital for severe gallstone pancreatitis complicated by sepsis. He reports progressive shortness of breath over the past 24 hours. He has a dry cough but no fever, chest pain, or leg swelling. His wife notes that he has become more confused and is breathing rapidly. Vital signs are: temperature 37.2 C (99.0 F), blood pressure 102/64 mm Hg, heart rate 118/min, respiratory rate 30/min, and oxygen saturation 86% on room air. On examination, he is using accessory muscles to breathe and has diffuse fine crackles bilaterally. Cardiac examination is unremarkable, and there is no peripheral edema.",
+      "lead_in": "Which additional clinical finding would most strongly support acute respiratory distress syndrome as the cause of his current respiratory status?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "New bilateral pulmonary infiltrates on chest radiograph without evidence of cardiomegaly"
+        },
+        {
+          "letter": "B",
+          "text": "Expiratory wheezing that improves after albuterol treatment"
+        },
+        {
+          "letter": "C",
+          "text": "Elevated jugular venous pressure with orthopnea and peripheral edema"
+        },
+        {
+          "letter": "D",
+          "text": "Unilateral pleuritic chest pain with absent breath sounds on one side"
+        },
+        {
+          "letter": "E",
+          "text": "Fever, purulent sputum, and focal right lower lobe crackles"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "Acute respiratory distress syndrome (ARDS) is a noncardiogenic cause of acute hypoxemic respiratory failure that often develops after a major inflammatory insult such as sepsis or pancreatitis. In this patient, persistent hypoxemia, tachypnea, diffuse crackles, and a recent severe systemic illness make ARDS a strong possibility. The finding that most strongly supports ARDS is bilateral pulmonary infiltrates on chest radiograph in the absence of cardiomegaly, which helps distinguish it from cardiogenic pulmonary edema.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Expiratory wheezing that improves with albuterol is more consistent with bronchospasm, such as asthma or COPD exacerbation, not ARDS."
+        },
+        {
+          "letter": "C",
+          "explanation": "Elevated jugular venous pressure with orthopnea and peripheral edema are typical of cardiogenic heart failure with pulmonary edema, a key alternative diagnosis to ARDS."
+        },
+        {
+          "letter": "D",
+          "explanation": "Unilateral pleuritic chest pain with absent breath sounds suggests pneumothorax rather than ARDS."
+        },
+        {
+          "letter": "E",
+          "explanation": "Fever, purulent sputum, and focal crackles point toward bacterial pneumonia, which can trigger ARDS but is not itself the supporting finding asked for here."
+        }
+      ],
+      "teaching_point": "ARDS is a post-injury, noncardiogenic hypoxemic respiratory failure; bilateral infiltrates without signs of volume overload help distinguish it from heart failure."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Diagnosis",
+      "topic": "Amyotrophic lateral sclerosis",
+      "setting": "Inpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 15-year-old boy is admitted for progressive weakness. Over the past 10 months, he has had frequent tripping, difficulty climbing stairs, and trouble opening jars. His parents also report new slurred speech and occasional choking on liquids. He has no sensory loss, back pain, or bowel/bladder changes. Examination shows diffuse muscle atrophy, fasciculations of the tongue and proximal arms, brisk deep tendon reflexes in the legs, and bilateral extensor plantar responses. Cranial nerves are otherwise intact. Sensation is preserved. Brain MRI is normal, and serum creatine kinase is only mildly elevated.",
+      "lead_in": "Which of the following is the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "letter": "B",
+          "text": "Duchenne muscular dystrophy"
+        },
+        {
+          "letter": "C",
+          "text": "Amyotrophic lateral sclerosis"
+        },
+        {
+          "letter": "D",
+          "text": "Spinal muscular atrophy"
+        },
+        {
+          "letter": "E",
+          "text": "Guillain-Barr\u00e9 syndrome"
+        }
+      ],
+      "correct_answer": "C",
+      "rationale": "This patient has a progressive motor neuron syndrome affecting both upper and lower motor neurons: weakness, muscle atrophy, fasciculations, brisk reflexes, and Babinski signs, with preserved sensation and normal neuroimaging. Bulbar involvement is suggested by dysarthria and dysphagia. These findings are most consistent with amyotrophic lateral sclerosis. Although ALS is uncommon in pediatrics, juvenile-onset motor neuron disease can present with the same characteristic combination of upper and lower motor neuron signs.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Myasthenia gravis causes fatigable weakness, commonly involving ocular and bulbar muscles, but reflexes and sensation are normal and upper motor neuron signs are absent."
+        },
+        {
+          "letter": "B",
+          "explanation": "Duchenne muscular dystrophy causes progressive proximal weakness and markedly elevated creatine kinase, but it does not produce upper motor neuron signs such as hyperreflexia and Babinski responses or fasciculations."
+        },
+        {
+          "letter": "D",
+          "explanation": "Spinal muscular atrophy causes lower motor neuron weakness, atrophy, and fasciculations, but it does not cause hyperreflexia or Babinski signs because upper motor neurons are spared."
+        },
+        {
+          "letter": "E",
+          "explanation": "Guillain-Barr\u00e9 syndrome causes acute, ascending weakness with areflexia and often sensory symptoms or autonomic dysfunction, which are not present here."
+        }
+      ],
+      "teaching_point": "Progressive weakness with both upper and lower motor neuron signs plus preserved sensation strongly suggests ALS, even in a pediatric patient with juvenile-onset disease."
+    },
+    {
+      "content_area": "Psychiatric/Behavioral Health",
+      "task": "Health Maintenance",
+      "topic": "Anorexia nervosa",
+      "setting": "Emergency Department",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 24-year-old woman is brought to the emergency department by her sister for weakness and dizziness after several weeks of markedly reduced food intake. She says she is \"fine\" and wants to leave. Her BMI is 15 kg/m2. Vital signs are temperature 35.9 C (96.6 F), blood pressure 86/54 mm Hg, heart rate 42/min, and respiratory rate 14/min. Exam shows lanugo and dry skin. Laboratory studies reveal potassium 2.9 mEq/L and phosphate 2.1 mg/dL. ECG shows sinus bradycardia without acute ischemic changes. She reports a 10-year history of restrictive eating and prior outpatient counseling that she stopped attending 6 months ago.",
+      "lead_in": "Which action is the most appropriate health maintenance intervention to reduce future medical complications related to her eating disorder after stabilization of this acute visit?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Arrange ongoing multidisciplinary outpatient follow-up with nutrition, psychotherapy, and medical monitoring"
+        },
+        {
+          "letter": "B",
+          "text": "Delay follow-up until she reaches a normal body mass index without treatment"
+        },
+        {
+          "letter": "C",
+          "text": "Advise that structured meal planning is unnecessary once electrolyte abnormalities correct"
+        },
+        {
+          "letter": "D",
+          "text": "Focus follow-up exclusively on repeated ECG monitoring because cardiac complications are the main long-term risk"
+        },
+        {
+          "letter": "E",
+          "text": "Recommend only annual primary care visits if she continues to deny weight concerns"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "Anorexia nervosa is a chronic relapsing illness with high risk for recurrent malnutrition, electrolyte disturbances, osteoporosis, arrhythmias, infertility, and psychiatric comorbidity. After acute medical stabilization in the ED, the most important health maintenance step is coordinated longitudinal care with a multidisciplinary team: nutritional rehabilitation, psychotherapy (often family-based therapy or CBT for adults), and regular medical monitoring of weight, vitals, labs, and complications. This approach reduces recurrence and future morbidity.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Waiting for spontaneous weight normalization is unsafe and unrealistic; active treatment and monitoring are needed to reduce complications and mortality."
+        },
+        {
+          "letter": "C",
+          "explanation": "Correcting electrolytes alone does not address the underlying eating disorder or prevent relapse; ongoing meal planning and supervision are important parts of maintenance care."
+        },
+        {
+          "letter": "D",
+          "explanation": "ECG monitoring may be appropriate during acute stabilization, but long-term health maintenance must be broader, addressing nutrition, psychiatric treatment, and medical surveillance."
+        },
+        {
+          "letter": "E",
+          "explanation": "Annual primary care visits are inadequate for a patient with severe anorexia nervosa and recent medical instability; she needs close, structured follow-up."
+        }
+      ],
+      "teaching_point": "After acute stabilization of anorexia nervosa, the key preventive strategy is coordinated multidisciplinary longitudinal follow-up to prevent relapse and medical complications."
+    },
+    {
+      "content_area": "Renal/Genitourinary",
+      "task": "Professional Practice",
+      "topic": "End-stage renal disease",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 58-year-old man with end-stage renal disease on hemodialysis presents to an outpatient clinic for a medication review. He reports missing his last two dialysis sessions because of transportation problems. His blood pressure is 168/94 mm Hg, and he has mild lower-extremity edema but no chest pain or shortness of breath. He takes lisinopril, calcium acetate, sevelamer, and a multivitamin. The patient says he has been feeling discouraged and has had thoughts that it might be easier not to continue dialysis, but he denies a specific plan. When asked directly, he says he is not sure he can safely manage these thoughts if his stress increases.",
+      "lead_in": "What is the most appropriate next step to ensure this patient\u2019s safety?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Advise him to resume dialysis and call if his mood worsens over the next few weeks"
+        },
+        {
+          "letter": "B",
+          "text": "Increase the dose of lisinopril to improve blood pressure control before addressing his mood"
+        },
+        {
+          "letter": "C",
+          "text": "Prescribe a short course of a benzodiazepine for acute stress related to dialysis"
+        },
+        {
+          "letter": "D",
+          "text": "Perform an immediate suicide risk assessment and arrange emergent psychiatric evaluation before he leaves the clinic"
+        },
+        {
+          "letter": "E",
+          "text": "Reassure him that passive thoughts are common in chronic illness and schedule routine follow-up in 1 month"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has suicidal ideation, even though it is passive and he denies a specific plan. His statement that he is not sure he can safely manage these thoughts if stress worsens indicates possible inability to maintain safety. In the outpatient setting, the priority is immediate suicide risk assessment and urgent psychiatric evaluation to prevent harm. Medical issues such as missed dialysis and hypertension are important, but they do not take precedence over the safety concern.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Encouraging dialysis adherence alone is insufficient when the patient may be at risk for self-harm. He needs immediate safety assessment rather than delayed outpatient advice."
+        },
+        {
+          "letter": "B",
+          "explanation": "Although blood pressure control matters in end-stage renal disease, adjusting antihypertensive therapy does not address the immediate safety concern. Suicide risk must be assessed first."
+        },
+        {
+          "letter": "C",
+          "explanation": "Benzodiazepines are not appropriate management for suicidal ideation and may worsen sedation, disinhibition, and safety risk. The correct response is urgent psychiatric evaluation."
+        },
+        {
+          "letter": "E",
+          "explanation": "Passive suicidal thoughts should not be minimized or deferred to routine follow-up when the patient cannot confidently state that he is safe. This requires urgent assessment, not reassurance alone."
+        }
+      ],
+      "teaching_point": "In outpatient care, suicidal ideation or any uncertainty about safety requires immediate suicide risk assessment and urgent protective action before routine medical management."
+    },
+    {
+      "content_area": "Eyes, ears, nose, oral cavity, and throat (EENOT)",
+      "task": "Diagnostic Studies",
+      "topic": "Blowout fracture",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 29-year-old man presents to an outpatient clinic 2 days after being struck in the right eye by a hockey puck. He reports persistent swelling around the eye and double vision when looking upward. He also says the right cheek feels numb. On exam, there is periorbital ecchymosis, mild enophthalmos, and decreased sensation over the right infraorbital region. Pupils are equal and reactive, and visual acuity is unchanged from baseline.",
+      "lead_in": "Which diagnostic study is the most appropriate next test to evaluate this patient\u2019s injury?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Noncontrast CT scan of the orbits and facial bones"
+        },
+        {
+          "letter": "B",
+          "text": "MRI of the orbits with contrast"
+        },
+        {
+          "letter": "C",
+          "text": "Fluorescein staining of the cornea"
+        },
+        {
+          "letter": "D",
+          "text": "Slit-lamp examination of the eye"
+        },
+        {
+          "letter": "E",
+          "text": "Plain radiographs of the facial bones"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient has findings concerning for an orbital blowout fracture, including diplopia with upward gaze limitation, infraorbital numbness, periorbital ecchymosis, and enophthalmos after blunt trauma. The best diagnostic study is a noncontrast CT scan of the orbits and facial bones because it is the most sensitive test for detecting orbital wall fractures and associated herniation of orbital contents, and it helps guide need for specialty referral or surgery.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "MRI is not the first-line study for suspected orbital fracture because it is less useful for acute bony injury and is not the initial imaging modality in trauma."
+        },
+        {
+          "letter": "C",
+          "explanation": "Fluorescein staining evaluates corneal epithelial defects such as abrasions or ulcers, not bony orbital injury."
+        },
+        {
+          "letter": "D",
+          "explanation": "Slit-lamp examination is useful for evaluating anterior segment and corneal injuries, but it does not adequately assess orbital wall fractures or bony entrapment."
+        },
+        {
+          "letter": "E",
+          "explanation": "Plain facial radiographs can miss orbital fractures and do not adequately define bony defects or soft tissue entrapment; CT is preferred."
+        }
+      ],
+      "teaching_point": "Suspected orbital blowout fractures are best evaluated with noncontrast CT of the orbits/facial bones, especially when diplopia, enophthalmos, or infraorbital numbness are present."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "Clinical Intervention",
+      "topic": "Secondary pneumothorax",
+      "setting": "Rehabilitation",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 67-year-old man is in an inpatient rehabilitation unit 5 days after a COPD exacerbation requiring BiPAP. He reports sudden left-sided pleuritic chest pain and increasing shortness of breath while walking with physical therapy. He has a 45-pack-year smoking history and is using 2 L/min nasal cannula oxygen. Vital signs are: temperature 36.8\u00b0C, blood pressure 128/76 mm Hg, heart rate 112/min, respiratory rate 28/min, and oxygen saturation 90% on 2 L/min. On exam, he is anxious and tachypneic. Breath sounds are decreased on the left with hyperresonance to percussion; there is no tracheal deviation. A chest radiograph shows a 3-cm left apical pneumothorax without mediastinal shift. His dyspnea improves only slightly after supplemental oxygen is increased.",
+      "lead_in": "What is the most appropriate next intervention?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Discharge home on high-flow oxygen with outpatient follow-up"
+        },
+        {
+          "letter": "B",
+          "text": "Place a small-bore chest tube and admit for inpatient monitoring"
+        },
+        {
+          "letter": "C",
+          "text": "Observe with repeat chest radiograph in 24 hours"
+        },
+        {
+          "letter": "D",
+          "text": "Administer albuterol nebulizers and reassess"
+        },
+        {
+          "letter": "E",
+          "text": "Perform needle aspiration of the pneumothorax"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "This patient has a secondary spontaneous pneumothorax in the setting of underlying lung disease (COPD) and is symptomatic with a sizable pneumothorax. Secondary pneumothoraces are managed more aggressively than primary pneumothoraces because patients have less pulmonary reserve and a higher risk of deterioration. The appropriate next step is tube thoracostomy, typically with a small-bore chest tube if the patient is hemodynamically stable and there are no signs of tension physiology, along with inpatient monitoring.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "High-flow oxygen can hasten pleural air resorption, but discharge is inappropriate for a symptomatic secondary pneumothorax of this size because the patient needs urgent procedural management and monitoring."
+        },
+        {
+          "letter": "C",
+          "explanation": "Observation with serial imaging is generally reserved for small, minimally symptomatic primary pneumothoraces. This patient has a symptomatic secondary pneumothorax with a 3-cm apical collection, making observation unsafe."
+        },
+        {
+          "letter": "D",
+          "explanation": "Bronchodilators may help if bronchospasm is contributing to dyspnea, but they do not treat a pneumothorax. The physical exam and radiograph identify a pleural air leak requiring pleural drainage."
+        },
+        {
+          "letter": "E",
+          "explanation": "Needle aspiration may be considered in selected primary spontaneous pneumothoraces, but secondary pneumothorax in a symptomatic patient with COPD is more appropriately treated with chest tube drainage because recurrence and failure rates are higher."
+        }
+      ],
+      "teaching_point": "Symptomatic secondary spontaneous pneumothorax in a patient with COPD generally requires chest tube drainage rather than observation or simple aspiration."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Health Maintenance",
+      "topic": "Multiple endocrine neoplasia 2A",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 68-year-old man comes to clinic for follow-up after a recent diagnosis of medullary thyroid carcinoma treated with total thyroidectomy. His history also includes a prior pheochromocytoma that caused episodic headaches and palpitations years ago and was treated with adrenal surgery. He has no current neck mass, calcium level is mildly high on routine labs, and he feels well. His daughter asks what health issue is most important for the family to address now because several relatives have had similar endocrine tumors. The patient reports that no one in the family has undergone genetic evaluation.",
+      "lead_in": "What is the most appropriate preventive action for this patient\u2019s at-risk first-degree relatives to reduce morbidity from this hereditary syndrome?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Refer first-degree relatives for RET mutation testing and genetic counseling"
+        },
+        {
+          "letter": "B",
+          "text": "Recommend annual thyroid ultrasound screening for all adult relatives"
+        },
+        {
+          "letter": "C",
+          "text": "Obtain serum anti-thyroid peroxidase antibodies in all first-degree relatives"
+        },
+        {
+          "letter": "D",
+          "text": "Start yearly plasma metanephrine screening in all first-degree relatives"
+        },
+        {
+          "letter": "E",
+          "text": "Advise colonoscopy beginning at age 40 for all first-degree relatives"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient has multiple endocrine neoplasia type 2A, an autosomal dominant syndrome caused by a germline RET proto-oncogene mutation. The most appropriate preventive action for asymptomatic at-risk first-degree relatives is cascade genetic counseling with RET mutation testing. Identifying mutation carriers allows targeted surveillance and timely preventive care for medullary thyroid carcinoma, pheochromocytoma, and hyperparathyroidism; in some carriers, this also enables prophylactic thyroidectomy at the appropriate age. Family members who test negative for the familial RET mutation can usually avoid unnecessary long-term biochemical or imaging surveillance.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Thyroid ultrasound may detect structural thyroid abnormalities, but it does not reliably screen for hereditary MEN2A or identify asymptomatic carriers. Genetic testing is the preferred family-level preventive strategy."
+        },
+        {
+          "letter": "C",
+          "explanation": "Anti-thyroid peroxidase antibodies evaluate autoimmune thyroid disease, not MEN2A, and they do not identify relatives at risk for a RET-associated cancer syndrome."
+        },
+        {
+          "letter": "D",
+          "explanation": "Plasma metanephrines screen for pheochromocytoma, but they do not detect the inherited RET mutation or address the broader syndrome. Cascade RET testing with counseling is more appropriate for first-degree relatives."
+        },
+        {
+          "letter": "E",
+          "explanation": "Colonoscopy is used for colorectal cancer syndromes such as familial adenomatous polyposis, not for MEN2A. The key preventive step here is identifying RET mutation carriers in the family."
+        }
+      ],
+      "teaching_point": "When MEN2A is suspected or confirmed, the best preventive step for at-risk relatives is cascade RET mutation testing with genetic counseling, not nonspecific thyroid, colon, or catecholamine screening."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Diagnostic Studies",
+      "topic": "Diabetic ketoacidosis",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 28-year-old woman with type 1 diabetes comes to an outpatient clinic because of 2 days of nausea, vomiting, and abdominal pain. She reports polyuria, polydipsia, and feeling increasingly weak after a \u201cstomach flu\u201d that made it difficult for her to keep food down. She has been taking much less insulin than usual because she has not been eating. Vital signs are: temperature 37.3\u00b0C (99.1\u00b0F), heart rate 118/min, blood pressure 98/62 mmHg, and respiratory rate 24/min. Physical examination shows dry mucous membranes and deep, rapid respirations. Point-of-care capillary glucose is 378 mg/dL.",
+      "lead_in": "Which laboratory evaluation is most appropriate to confirm the suspected complication and assess its severity?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Urine microalbumin-to-creatinine ratio"
+        },
+        {
+          "letter": "B",
+          "text": "Hemoglobin A1c"
+        },
+        {
+          "letter": "C",
+          "text": "Serum lactate and blood cultures"
+        },
+        {
+          "letter": "D",
+          "text": "Serum electrolytes, bicarbonate, anion gap, venous blood gas, and serum beta-hydroxybutyrate"
+        },
+        {
+          "letter": "E",
+          "text": "Serum lipase and amylase"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has diabetic ketoacidosis (DKA): type 1 diabetes, missed insulin, hyperglycemia, dehydration, gastrointestinal symptoms, and Kussmaul respirations from metabolic acidosis. The best evaluation is a laboratory panel that confirms high anion gap metabolic acidosis and ketonemia and also helps assess severity and guide urgent treatment: serum electrolytes, bicarbonate, anion gap, venous blood gas, and serum beta-hydroxybutyrate. Beta-hydroxybutyrate is the predominant ketone in DKA, so it is more informative than urine ketones, which can underestimate ketosis. These studies also help identify dangerous electrolyte abnormalities, especially potassium, that require prompt management.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Urine microalbumin-to-creatinine ratio screens for diabetic kidney disease and does not evaluate an acute hyperglycemic crisis."
+        },
+        {
+          "letter": "B",
+          "explanation": "Hemoglobin A1c reflects average glycemic control over the prior 2 to 3 months, so it does not diagnose or grade the severity of acute DKA."
+        },
+        {
+          "letter": "C",
+          "explanation": "Serum lactate and blood cultures can help evaluate sepsis or tissue hypoperfusion, but they do not confirm DKA or assess the acid-base and ketone abnormalities that define it."
+        },
+        {
+          "letter": "E",
+          "explanation": "Serum lipase and amylase may be obtained if pancreatitis is suspected as a trigger, but they do not confirm DKA or assess the severity of the metabolic derangement."
+        }
+      ],
+      "teaching_point": "DKA is confirmed by demonstrating metabolic acidosis and ketonemia; the key tests are electrolytes, bicarbonate, anion gap, blood gas, and serum beta-hydroxybutyrate, not chronic diabetes markers or unrelated trigger labs."
+    },
+    {
+      "content_area": "Renal/Genitourinary",
+      "task": "Diagnostic Studies",
+      "topic": "Acute pyelonephritis",
+      "setting": "Perioperative",
+      "life_course": "Pediatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 7-year-old girl is brought to the preoperative clinic 2 days before an elective tonsillectomy. Over the past 24 hours, she has had fever to 39.2\u00b0C (102.6\u00b0F), abdominal pain, vomiting, and new pain in her back. Her mother reports that she has been urinating more often and seemed to have discomfort with urination, but there is no cough, congestion, or diarrhea. On examination, the child appears ill and mildly dehydrated. Temperature is 38.8\u00b0C (101.8\u00b0F), heart rate is 128/min, and blood pressure is 102/64 mmHg. She has right costovertebral angle tenderness. A point-of-care urine dipstick is positive for leukocyte esterase and nitrites. The tonsillectomy is postponed.",
+      "lead_in": "What is the best next diagnostic study to confirm the diagnosis and identify the causative organism so antibiotic therapy can be targeted appropriately?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Blood cultures"
+        },
+        {
+          "letter": "B",
+          "text": "Voiding cystourethrogram"
+        },
+        {
+          "letter": "C",
+          "text": "Noncontrast computed tomography of the abdomen and pelvis"
+        },
+        {
+          "letter": "D",
+          "text": "Renal and bladder ultrasound"
+        },
+        {
+          "letter": "E",
+          "text": "Urine culture with urinalysis obtained from a properly collected urine specimen"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This child has acute pyelonephritis, suggested by fever, vomiting, dysuria/frequency, flank/back pain, costovertebral angle tenderness, and a urine dipstick positive for leukocyte esterase and nitrites. The best next diagnostic study is urinalysis with urine culture from an appropriate specimen, because culture confirms infection and identifies the causative organism and antibiotic susceptibilities. In a 7-year-old, a clean-catch specimen is reasonable if she can provide one reliably; if not, catheterization may be needed to obtain a properly collected sample before antibiotics are started. Her acute febrile illness also makes elective surgery inappropriate, so postponing the tonsillectomy is correct.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Blood cultures may be obtained in a toxic-appearing child or if bacteremia is strongly suspected, but they do not replace urine culture for confirming pyelonephritis and guiding antibiotic therapy."
+        },
+        {
+          "letter": "B",
+          "explanation": "Voiding cystourethrogram is used to evaluate vesicoureteral reflux or structural abnormalities after selected recurrent febrile urinary tract infections, not to evaluate an acute episode of pyelonephritis."
+        },
+        {
+          "letter": "C",
+          "explanation": "Noncontrast CT is mainly used when nephrolithiasis is suspected. In a child with a typical febrile urinary tract infection, it adds unnecessary radiation and does not help choose targeted antibiotics."
+        },
+        {
+          "letter": "D",
+          "explanation": "Renal and bladder ultrasound can be useful if obstruction, abscess, anatomic abnormality, or recurrent febrile urinary tract infection is suspected, but it does not confirm acute pyelonephritis or identify the organism for antibiotic selection."
+        }
+      ],
+      "teaching_point": "In suspected pediatric pyelonephritis, obtain urinalysis and urine culture from a properly collected urine specimen before antibiotics whenever possible; imaging is reserved for atypical, recurrent, or complicated cases."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "Clinical Therapeutics",
+      "topic": "Asthma exacerbation",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 74-year-old woman with a 20-year history of asthma presents to clinic because of 2 days of increased wheezing, cough, and chest tightness after developing a viral upper respiratory infection. She is speaking in full sentences, has a respiratory rate of 20/min, oxygen saturation of 96% on room air, and diffuse expiratory wheezes on exam. She uses an albuterol inhaler as needed, but over the past day she has needed it every 2 hours with only brief relief. She is not using any maintenance inhaler.",
+      "lead_in": "Which is the most appropriate next outpatient medication regimen to help control her current symptoms and reduce the risk of further exacerbations?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Start a long-acting beta agonist alone and continue as-needed albuterol"
+        },
+        {
+          "letter": "B",
+          "text": "Start oral prednisone alone and stop albuterol"
+        },
+        {
+          "letter": "C",
+          "text": "Begin inhaled ipratropium alone and continue as-needed albuterol"
+        },
+        {
+          "letter": "D",
+          "text": "Start montelukast alone and continue as-needed albuterol"
+        },
+        {
+          "letter": "E",
+          "text": "Start an inhaled corticosteroid and continue as-needed albuterol"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This patient has an outpatient asthma exacerbation with frequent rescue inhaler use and no controller therapy. The appropriate next step is to add an inhaled corticosteroid, which reduces airway inflammation, improves symptom control, and lowers the risk of future exacerbations. Short-acting albuterol should be continued for quick relief. In a stable outpatient with normal oxygenation and no severe distress, controller initiation is appropriate rather than stopping rescue therapy or using bronchodilator monotherapy.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "A long-acting beta agonist should never be used as monotherapy in asthma because it does not treat airway inflammation and is associated with increased risk when used without an inhaled corticosteroid."
+        },
+        {
+          "letter": "B",
+          "explanation": "Oral prednisone may be used for a moderate or severe exacerbation, but prednisone alone does not provide ongoing controller therapy and albuterol should not be stopped. Long-term management requires an inhaled corticosteroid to prevent recurrent symptoms and exacerbations."
+        },
+        {
+          "letter": "C",
+          "explanation": "Inhaled ipratropium has a role as an adjunct in acute severe exacerbations, typically in the emergency setting, but it is not appropriate as sole outpatient controller therapy for asthma."
+        },
+        {
+          "letter": "D",
+          "explanation": "Montelukast can be an adjunctive controller in selected patients, but it is less effective than inhaled corticosteroids for controlling persistent asthma and preventing exacerbations. It should not be used as sole therapy here."
+        }
+      ],
+      "teaching_point": "Asthma symptoms requiring frequent albuterol suggest inadequate control; inhaled corticosteroids are the foundation of controller therapy, with albuterol kept for rescue use."
+    },
+    {
+      "content_area": "Gynecologic/Reproductive Health",
+      "task": "History and Physical",
+      "topic": "Ovarian torsion",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 29-year-old woman presents to an outpatient clinic with sudden-onset, severe right lower quadrant pelvic pain that began 4 hours ago while she was at work. She reports associated nausea and one episode of vomiting. Her last menstrual period was 2 weeks ago. She has a history of a 6-cm right ovarian cyst found on ultrasound 3 months ago but has not had follow-up imaging. She is sexually active with one partner and uses a levonorgestrel IUD. Temperature is 37.1 C (98.8 F), blood pressure is 122/76 mm Hg, pulse is 104/min, and respiratory rate is 16/min. Abdominal exam shows focal tenderness in the right lower quadrant without rebound or guarding. Pelvic exam reveals right adnexal tenderness and a mildly enlarged, mobile right adnexa. Urine pregnancy test is negative.",
+      "lead_in": "Which additional physical examination finding would most strongly increase suspicion for the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Unilateral vulvar swelling and a fluctuant tender mass at the posterior introitus"
+        },
+        {
+          "letter": "B",
+          "text": "Bulging vaginal wall mass that increases with Valsalva maneuver"
+        },
+        {
+          "letter": "C",
+          "text": "Purulent cervical discharge with cervical motion tenderness"
+        },
+        {
+          "letter": "D",
+          "text": "Pain that worsens with adnexal manipulation on bimanual examination"
+        },
+        {
+          "letter": "E",
+          "text": "Rigid abdomen with diffuse rebound tenderness"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient\u2019s sudden unilateral pelvic pain, nausea/vomiting, adnexal tenderness, and known ovarian cyst are most consistent with ovarian torsion. A physical examination finding that would further increase suspicion is pain that worsens with adnexal manipulation on bimanual exam, reflecting ovarian/ligamentous twisting and peritoneal irritation. Ovarian torsion is a clinical emergency, and exam may reveal a tender, enlarged, sometimes mobile adnexa.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Unilateral vulvar swelling with a fluctuant tender mass at the posterior introitus is characteristic of a Bartholin gland cyst or abscess, which causes localized vulvar pain rather than deep adnexal tenderness and acute unilateral pelvic pain."
+        },
+        {
+          "letter": "B",
+          "explanation": "A bulging vaginal wall mass that increases with Valsalva is more consistent with a pelvic organ prolapse, not an acute surgical cause of unilateral pelvic pain."
+        },
+        {
+          "letter": "C",
+          "explanation": "Purulent cervical discharge with cervical motion tenderness suggests pelvic inflammatory disease, which can cause pelvic pain but is less likely here given the abrupt onset, unilateral adnexal findings, and adnexal mass history."
+        },
+        {
+          "letter": "E",
+          "explanation": "A rigid abdomen with diffuse rebound tenderness suggests generalized peritonitis from a ruptured viscus or other intra-abdominal catastrophe, which is not the most fitting exam finding for isolated ovarian torsion in this stable outpatient presentation."
+        }
+      ],
+      "teaching_point": "Ovarian torsion should be suspected with sudden unilateral pelvic pain, nausea/vomiting, and adnexal tenderness\u2014especially with an ovarian cyst\u2014and adnexal manipulation that worsens pain supports the diagnosis."
+    },
+    {
+      "content_area": "Gynecologic/Reproductive Health",
+      "task": "Health Maintenance",
+      "topic": "Hepatitis A",
+      "setting": "Outpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 12-year-old girl is brought to a primary care clinic for a routine well-child visit. She is generally healthy, has no chronic medical conditions, and takes no daily medications. Her parents report that she received all infant immunizations, but they recently moved from another state and do not have her full vaccine record. She is due for routine preventive care before starting middle school. On review of her chart, there is no documentation of hepatitis A vaccination.",
+      "lead_in": "Which preventive recommendation is most appropriate at this visit?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Check hepatitis A IgG serology and defer vaccination if prior infection is suspected"
+        },
+        {
+          "letter": "B",
+          "text": "Obtain hepatitis A serology and vaccinate only if she is nonimmune"
+        },
+        {
+          "letter": "C",
+          "text": "Administer the hepatitis B vaccine series now"
+        },
+        {
+          "letter": "D",
+          "text": "Defer hepatitis A vaccination until adolescence unless she travels internationally"
+        },
+        {
+          "letter": "E",
+          "text": "Administer the hepatitis A vaccine series now"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This healthy 12-year-old has no documented hepatitis A vaccination, so she should receive catch-up hepatitis A immunization now. Hepatitis A vaccine is recommended routinely for all children starting at 12 months of age, and children with missing or incomplete records should be vaccinated rather than waiting. Routine serologic testing is not recommended before vaccination in immunocompetent children with uncertain documentation.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Checking hepatitis A IgG serology and deferring vaccination is not the recommended routine approach in a healthy child with incomplete records; vaccination should not be delayed to investigate prior infection in this setting."
+        },
+        {
+          "letter": "B",
+          "explanation": "Routine hepatitis A serology is not recommended before vaccination in a healthy child with missing documentation; vaccination is the appropriate catch-up strategy."
+        },
+        {
+          "letter": "C",
+          "explanation": "Hepatitis B vaccination is a separate immunization. The stem concerns the absence of hepatitis A documentation, so hepatitis A vaccination is the targeted preventive step."
+        },
+        {
+          "letter": "D",
+          "explanation": "Hepatitis A vaccination is recommended routinely in childhood and as catch-up when records are incomplete, not only for international travel or later adolescence."
+        }
+      ],
+      "teaching_point": "When a healthy child lacks documented hepatitis A immunization, give the hepatitis A vaccine as catch-up preventive care; serologic testing is usually unnecessary."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Clinical Therapeutics",
+      "topic": "Cluster headache",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 34-year-old man comes to clinic because of severe right-sided headaches for the past 2 weeks. The attacks start suddenly, peak within minutes, and last 45 to 90 minutes. During episodes, he paces the room and says he cannot lie still. He has marked tearing and redness of the right eye, nasal congestion, and a drooping eyelid on the same side. He has had 2 to 3 attacks per day, often waking him from sleep. Neurologic examination is normal between attacks. He has a 20-pack-year smoking history and drinks alcohol on weekends. Over the counter ibuprofen has not helped.",
+      "lead_in": "Which treatment is the most appropriate next step to abort this patient\u2019s headache attacks?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Oral sumatriptan taken at headache onset"
+        },
+        {
+          "letter": "B",
+          "text": "High-flow 100% oxygen by nonrebreather mask"
+        },
+        {
+          "letter": "C",
+          "text": "Daily propranolol for headache prevention"
+        },
+        {
+          "letter": "D",
+          "text": "Intravenous methylprednisolone in the outpatient clinic"
+        },
+        {
+          "letter": "E",
+          "text": "Oral acetaminophen with caffeine"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "This patient has classic cluster headache: brief, severe unilateral attacks with autonomic symptoms, agitation/restlessness, and a circadian pattern. The most appropriate acute abortive therapy is high-flow oxygen delivered by nonrebreather mask, which can rapidly relieve attacks and is first-line for acute treatment. Because the question asks how to abort the attacks, oxygen is the best next step. Oral sumatriptan is not preferred for acute cluster headache because the oral route is too slow for the short duration of attacks; if a triptan is used, subcutaneous or intranasal forms are preferred. Propranolol is used for migraine prophylaxis, not cluster headache. IV methylprednisolone is not standard outpatient abortive therapy; corticosteroids may be used as a short-term bridge in selected patients when starting preventive therapy, but they do not rapidly abort individual attacks. Acetaminophen with caffeine is ineffective for cluster headache.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Oral sumatriptan acts too slowly for the short, intense attacks of cluster headache; injectable or intranasal triptans are used if oxygen is insufficient or unavailable."
+        },
+        {
+          "letter": "C",
+          "explanation": "Propranolol is a migraine preventive medication and is not an effective abortive treatment for cluster headache."
+        },
+        {
+          "letter": "D",
+          "explanation": "Systemic corticosteroids may serve as transitional therapy in cluster headache, but they are not the preferred immediate abortive treatment for individual attacks in outpatient care."
+        },
+        {
+          "letter": "E",
+          "explanation": "Simple analgesics such as acetaminophen, even with caffeine, generally do not relieve cluster headache attacks."
+        }
+      ],
+      "teaching_point": "Acute cluster headache attacks are best aborted with high-flow oxygen or a rapid-acting triptan, not oral analgesics or migraine preventives."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Diagnosis",
+      "topic": "Primary adrenal insufficiency",
+      "setting": "Inpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 46-year-old woman is admitted for worsening fatigue, nausea, and diffuse abdominal pain over 2 days. She reports dizziness when standing and poor appetite for several months, but has not sought care. She has no history of glucocorticoid use. On examination, she is afebrile, blood pressure is 88/54 mm Hg, pulse is 112/min, and mucous membranes are dry. Skin examination shows generalized hyperpigmentation, including in palmar creases and recent scar tissue. Laboratory studies show sodium 124 mEq/L, potassium 5.8 mEq/L, bicarbonate 18 mEq/L, glucose 62 mg/dL, BUN 28 mg/dL, and creatinine 1.4 mg/dL. ECG shows peaked T waves.",
+      "lead_in": "Which diagnosis best explains this patient\u2019s presentation?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "SIADH"
+        },
+        {
+          "letter": "B",
+          "text": "Severe dehydration from gastroenteritis"
+        },
+        {
+          "letter": "C",
+          "text": "Secondary adrenal insufficiency"
+        },
+        {
+          "letter": "D",
+          "text": "Primary adrenal insufficiency"
+        },
+        {
+          "letter": "E",
+          "text": "Pheochromocytoma"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "Primary adrenal insufficiency best fits the combination of chronic constitutional symptoms, orthostatic hypotension, hyperpigmentation, hyponatremia, hyperkalemia, hypoglycemia, and volume depletion. The hyperpigmentation occurs because low cortisol increases ACTH production, and elevated ACTH is associated with increased melanocortin activity. Aldosterone deficiency explains the hyperkalemia, hyponatremia, metabolic acidosis, and hypotension. The inpatient presentation is concerning for adrenal crisis superimposed on chronic adrenal failure.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "SIADH causes euvolemic hyponatremia, but it does not cause hyperkalemia, hypoglycemia, orthostatic hypotension, or hyperpigmentation. The exam and labs here suggest adrenal hormone deficiency with volume depletion rather than inappropriate water retention."
+        },
+        {
+          "letter": "B",
+          "explanation": "Gastroenteritis with dehydration can cause hypotension and prerenal azotemia, but it does not explain the chronic history of fatigue and salt craving-like volume depletion, hyperpigmentation, or the characteristic electrolyte pattern of adrenal insufficiency."
+        },
+        {
+          "letter": "C",
+          "explanation": "Secondary adrenal insufficiency can cause fatigue, hypotension, hyponatremia, and hypoglycemia, but it typically does not cause hyperkalemia or hyperpigmentation because aldosterone production is usually preserved and ACTH is low rather than elevated."
+        },
+        {
+          "letter": "E",
+          "explanation": "Pheochromocytoma can cause episodic headache, sweating, palpitations, and severe hypertension, which are not present here. It does not explain the hyperpigmentation with salt-wasting electrolyte abnormalities."
+        }
+      ],
+      "teaching_point": "Primary adrenal insufficiency causes hypotension, hyperpigmentation, hyponatremia, hyperkalemia, and hypoglycemia from cortisol and aldosterone deficiency."
+    },
+    {
+      "content_area": "Cardiovascular",
+      "task": "Diagnosis",
+      "topic": "Truncus arteriosus",
+      "setting": "Outpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 2-week-old boy is brought to a pediatric clinic for poor feeding and fast breathing during feeds. He was born at term and discharged home after an uncomplicated nursery stay. Since discharge, his parents have noticed sweating with feeds, tiring after taking only small amounts of formula, and slower weight gain than expected. On examination, he is alert but tachypneic with mild subcostal retractions. Oxygen saturation is 88% on room air. Cardiac exam reveals a single loud second heart sound and a harsh systolic murmur along the left sternal border. The liver edge is palpable 3 cm below the right costal margin.",
+      "lead_in": "Which of the following is the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Truncus arteriosus"
+        },
+        {
+          "letter": "B",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "letter": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "letter": "D",
+          "text": "Total anomalous pulmonary venous return"
+        },
+        {
+          "letter": "E",
+          "text": "Coarctation of the aorta"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "Truncus arteriosus presents in early infancy with cyanosis, tachypnea, poor feeding, and signs of congestive heart failure as pulmonary overcirculation develops. A single loud second heart sound, a systolic murmur from associated ventricular septal flow, and low oxygen saturation support a cyanotic congenital heart defect with complete mixing of systemic and pulmonary blood in a common arterial trunk.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Tetralogy of Fallot causes cyanosis in infancy, but it more often features episodic hypercyanotic spells, a harsh systolic murmur from right ventricular outflow obstruction, and decreased pulmonary blood flow rather than early heart failure from pulmonary overcirculation."
+        },
+        {
+          "letter": "C",
+          "explanation": "Transposition of the great arteries causes severe cyanosis in the newborn period, but it typically presents with minimal murmur and does not usually cause the combination of a loud single second heart sound and congestive heart failure from pulmonary overcirculation seen here."
+        },
+        {
+          "letter": "D",
+          "explanation": "Total anomalous pulmonary venous return can cause neonatal cyanosis and respiratory distress, but it is classically associated with a fixed split second heart sound and a systolic ejection murmur rather than a single loud second heart sound and a harsh left sternal border murmur."
+        },
+        {
+          "letter": "E",
+          "explanation": "Coarctation of the aorta can present in infancy with poor feeding and heart failure, but it more typically causes weak femoral pulses, differential blood pressures, and shock after ductal closure rather than early cyanosis with a single loud second heart sound."
+        }
+      ],
+      "teaching_point": "Truncus arteriosus causes early cyanosis plus heart failure in infants and classically has a single S2."
+    },
+    {
+      "content_area": "Cardiovascular",
+      "task": "Diagnostic Studies",
+      "topic": "Heart failure",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 68-year-old man comes to clinic for progressive exertional dyspnea and fatigue over the past 3 months. He has hypertension and type 2 diabetes and had an inferior myocardial infarction 4 years ago. He sleeps on two pillows and has noticed mild ankle swelling by the end of the day. His blood pressure is 138/84 mm Hg, heart rate is 86/min, and oxygen saturation is 97% on room air. On examination, he has bilateral basilar crackles and 1+ pitting edema at the ankles. A chest radiograph shows mild cardiomegaly. The clinician suspects chronic heart failure and wants the most appropriate initial test to confirm the diagnosis and help characterize cardiac function.",
+      "lead_in": "Which study is the best next step to evaluate this patient\u2019s suspected heart failure?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Brain natriuretic peptide (BNP) level"
+        },
+        {
+          "letter": "B",
+          "text": "Serum troponin I level"
+        },
+        {
+          "letter": "C",
+          "text": "24-hour Holter monitoring"
+        },
+        {
+          "letter": "D",
+          "text": "Coronary angiography"
+        },
+        {
+          "letter": "E",
+          "text": "Transthoracic echocardiography"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Transthoracic echocardiography is the best next test in a stable outpatient with suspected chronic heart failure because it directly assesses cardiac structure and function. It estimates ejection fraction, evaluates chamber size and wall motion, and can identify valvular disease or cardiomyopathy, including ischemic cardiomyopathy after prior myocardial infarction. In this patient, the combination of exertional dyspnea, orthopnea, edema, crackles, and cardiomegaly strongly suggests heart failure, and echocardiography is the key study to confirm and characterize it.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "BNP can support the diagnosis of heart failure and is useful as a screening or rule-out test, but it does not define cardiac structure or ejection fraction the way echocardiography does."
+        },
+        {
+          "letter": "B",
+          "explanation": "Troponin I is used to detect acute myocardial injury, especially in suspected acute coronary syndrome, not to evaluate chronic stable symptoms of heart failure."
+        },
+        {
+          "letter": "C",
+          "explanation": "Holter monitoring is used to evaluate intermittent arrhythmias such as palpitations or syncope, not to confirm heart failure or assess ventricular function."
+        },
+        {
+          "letter": "D",
+          "explanation": "Coronary angiography can define coronary artery disease when ischemia is strongly suspected or when revascularization is being considered, but it is invasive and is not the initial diagnostic test for stable suspected heart failure."
+        }
+      ],
+      "teaching_point": "In stable suspected heart failure, transthoracic echocardiography is the preferred study to confirm cardiac dysfunction and determine ejection fraction."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "Diagnostic Studies",
+      "topic": "Pulmonary embolism",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 54-year-old woman presents to her primary care clinic with 2 days of pleuritic right-sided chest pain and mild shortness of breath. She returned yesterday from a 9-hour car trip. She has no fever, cough, leg swelling, or prior venous thromboembolism. Vital signs are: temperature 36.8\u00b0C (98.2\u00b0F), blood pressure 128/76 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 97% on room air. Exam shows clear lungs and no unilateral calf tenderness or edema.",
+      "lead_in": "Which diagnostic study is the most appropriate next step to evaluate this patient for pulmonary embolism?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Chest radiography"
+        },
+        {
+          "letter": "B",
+          "text": "Computed tomography pulmonary angiography"
+        },
+        {
+          "letter": "C",
+          "text": "Lower extremity venous duplex ultrasonography"
+        },
+        {
+          "letter": "D",
+          "text": "D-dimer assay"
+        },
+        {
+          "letter": "E",
+          "text": "Ventilation-perfusion scan"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This outpatient has symptoms that could be due to pulmonary embolism, but her overall pretest probability is low: she is hemodynamically stable, not hypoxemic, has no tachycardia, no unilateral leg findings, and only a modest provoking risk factor. In a low-risk patient, the appropriate next diagnostic test is a D-dimer assay. A negative D-dimer can safely exclude PE without radiation or contrast exposure; if positive, imaging is then indicated.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Chest radiography may be obtained to assess other causes of chest pain or dyspnea, but it cannot reliably rule out PE and should not be the primary diagnostic study when PE is being considered in a low-risk patient."
+        },
+        {
+          "letter": "B",
+          "explanation": "CT pulmonary angiography is appropriate when pretest probability is moderate/high or when D-dimer is positive. It is not the first test in a low-risk outpatient because many patients would undergo unnecessary radiation and contrast exposure."
+        },
+        {
+          "letter": "C",
+          "explanation": "Lower extremity venous duplex ultrasonography can help when symptoms suggest DVT or when PE imaging is unavailable, but this patient has no leg symptoms or exam findings. It is not the preferred initial test for a low-risk PE evaluation."
+        },
+        {
+          "letter": "E",
+          "explanation": "A ventilation-perfusion scan can be used when CT angiography is contraindicated, such as in severe contrast allergy or pregnancy, but it is not the best initial study here because the patient is low risk and should be screened with D-dimer first."
+        }
+      ],
+      "teaching_point": "In a hemodynamically stable outpatient with low pretest probability for PE, start with D-dimer; reserve imaging for positive results or higher clinical probability."
+    },
+    {
+      "content_area": "Hematologic",
+      "task": "Clinical Therapeutics",
+      "topic": "Immune thrombocytopenia",
+      "setting": "Emergency Department",
+      "life_course": "Geriatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "An 81-year-old woman is brought to the emergency department after her daughter noticed several days of worsening bruising and small red spots on her legs. She had a self-limited viral upper respiratory illness 2 weeks ago. She takes lisinopril and atorvastatin and recently started ibuprofen for knee pain. She denies melena, hematuria, headache, chest pain, or shortness of breath. Vital signs are normal. Examination shows scattered petechiae on the lower extremities and ecchymoses on both forearms without joint swelling or hepatosplenomegaly. Laboratory studies show hemoglobin 12.8 g/dL, white blood cell count 6,200/mm3, platelet count 7,000/mm3, creatinine 0.9 mg/dL, PT 12.1 seconds, and aPTT 31 seconds. Peripheral smear shows markedly decreased platelets without schistocytes.",
+      "lead_in": "What is the most appropriate initial treatment for this patient?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Observation and repeat platelet count in 1 week"
+        },
+        {
+          "letter": "B",
+          "text": "High-dose corticosteroids alone"
+        },
+        {
+          "letter": "C",
+          "text": "Urgent plasma exchange"
+        },
+        {
+          "letter": "D",
+          "text": "Platelet transfusion alone"
+        },
+        {
+          "letter": "E",
+          "text": "Oral ferrous sulfate therapy"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "This patient has immune thrombocytopenia (ITP): isolated severe thrombocytopenia, normal PT/aPTT, normal hemoglobin and white blood cell count, and no schistocytes. She has mucocutaneous bleeding findings limited to petechiae and ecchymoses, without major hemorrhage or hemodynamic instability. In a stable patient with newly recognized ITP, initial treatment is corticosteroids to reduce immune-mediated platelet destruction. IV immune globulin is typically reserved for patients who need a rapid platelet rise because of significant bleeding or an urgent procedure; those features are not present here, so corticosteroids alone are the best initial therapy.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Observation is reasonable only for mild thrombocytopenia or absent bleeding. A platelet count of 7,000/mm3 with petechiae and ecchymoses requires active treatment."
+        },
+        {
+          "letter": "C",
+          "explanation": "Urgent plasma exchange is used for thrombotic thrombocytopenic purpura, which typically causes microangiopathic hemolytic anemia, schistocytes, and end-organ injury. Those findings are absent here."
+        },
+        {
+          "letter": "D",
+          "explanation": "Platelet transfusion alone is generally reserved for life-threatening bleeding or procedures. In ITP, transfused platelets are often rapidly destroyed unless the immune process is also treated."
+        },
+        {
+          "letter": "E",
+          "explanation": "Iron therapy treats iron deficiency anemia, not isolated thrombocytopenia. This patient\u2019s hemoglobin is normal and the presentation is not consistent with iron deficiency."
+        }
+      ],
+      "teaching_point": "Stable immune thrombocytopenia with isolated thrombocytopenia and minor mucocutaneous bleeding is treated initially with corticosteroids; IVIG is added when a rapid platelet increase is needed for major bleeding or an urgent procedure."
+    },
+    {
+      "content_area": "Psychiatric/Behavioral Health",
+      "task": "Diagnostic Studies",
+      "topic": "Anorexia nervosa",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 24-year-old woman comes to the clinic for fatigue and irregular menses. Over the past 8 months she has lost 18 kg (40 lb) and says she feels \u201cin control\u201d when she restricts calories and exercises daily. Her BMI is 16.4 kg/m2. She denies vomiting, laxative use, chest pain, or syncope. Vital signs show heart rate 52/min and blood pressure 92/58 mm Hg. Physical examination shows dry skin and lanugo. The clinician is concerned about a restrictive eating disorder and wants to evaluate for common medical complications before deciding on further management.",
+      "lead_in": "Which of the following studies is the most appropriate initial diagnostic evaluation?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Comprehensive metabolic panel, magnesium, phosphorus, and electrocardiogram"
+        },
+        {
+          "letter": "B",
+          "text": "Barium swallow study"
+        },
+        {
+          "letter": "C",
+          "text": "Serum prolactin and thyroid-stimulating hormone"
+        },
+        {
+          "letter": "D",
+          "text": "Brain MRI with contrast"
+        },
+        {
+          "letter": "E",
+          "text": "24-hour stool fat collection"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient has findings strongly suggestive of anorexia nervosa and is medically unstable enough to warrant evaluation for complications of malnutrition and electrolyte abnormalities. Initial outpatient diagnostic assessment should include a comprehensive metabolic panel plus magnesium and phosphorus to assess for hypokalemia, hypoglycemia, renal dysfunction, and refeeding-related risk, along with an ECG to look for bradycardia, QTc prolongation, or other conduction abnormalities. These results help determine the urgency of treatment and whether higher-level care is needed.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "A barium swallow may be useful for dysphagia or structural esophageal disease, but her presentation is much more consistent with a restrictive eating disorder and associated medical complications."
+        },
+        {
+          "letter": "C",
+          "explanation": "Prolactin and TSH may be checked when evaluating amenorrhea, but they do not assess the immediate medical risks of anorexia nervosa such as electrolyte disturbances and cardiac conduction abnormalities."
+        },
+        {
+          "letter": "D",
+          "explanation": "Brain MRI is not the initial study for suspected anorexia nervosa unless there are focal neurologic deficits, severe headaches, or another reason to suspect an intracranial process causing weight loss."
+        },
+        {
+          "letter": "E",
+          "explanation": "A 24-hour stool fat collection evaluates malabsorption syndromes, which can cause weight loss, but the history of intentional caloric restriction, excessive exercise, low BMI, amenorrhea, and lanugo points to anorexia nervosa instead."
+        }
+      ],
+      "teaching_point": "Suspected anorexia nervosa should prompt labs and ECG to identify malnutrition-related complications, especially electrolyte abnormalities and bradyarrhythmias."
+    },
+    {
+      "content_area": "Eyes, ears, nose, oral cavity, and throat (EENOT)",
+      "task": "History and Physical",
+      "topic": "Acute angle-closure glaucoma",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Remember",
+      "vignette": "A 72-year-old woman comes to an outpatient clinic because of sudden severe pain in her right eye that began this morning. She reports blurred vision with halos around lights, headache, and nausea. She has been using an over-the-counter cold medication for the past 2 days. On examination, the right eye is red with a mid-dilated pupil and the cornea appears cloudy.",
+      "lead_in": "Which physical examination finding is most characteristic of this condition?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Corneal epithelial defect that stains in a branching dendritic pattern with fluorescein"
+        },
+        {
+          "letter": "B",
+          "text": "Elevated intraocular pressure with a fixed mid-dilated pupil"
+        },
+        {
+          "letter": "C",
+          "text": "Pain relieved by instillation of topical anesthetic drops"
+        },
+        {
+          "letter": "D",
+          "text": "Gradual loss of peripheral vision with optic disc cupping"
+        },
+        {
+          "letter": "E",
+          "text": "Conjunctival injection with watery discharge and preauricular lymphadenopathy"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "Acute angle-closure glaucoma classically causes sudden severe eye pain, blurred vision with halos, headache, nausea, a red eye, a cloudy cornea, and a mid-dilated poorly reactive pupil. On examination, the most characteristic finding is elevated intraocular pressure with a fixed mid-dilated pupil.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "A branching dendritic corneal staining pattern suggests herpes simplex keratitis, which can cause eye pain and photophobia but does not typically produce the fixed mid-dilated pupil and elevated intraocular pressure seen in acute angle-closure glaucoma."
+        },
+        {
+          "letter": "C",
+          "explanation": "Pain that is relieved by topical anesthetic drops suggests a superficial corneal process such as corneal abrasion or foreign body, not acute angle-closure glaucoma."
+        },
+        {
+          "letter": "D",
+          "explanation": "Gradual peripheral vision loss with optic disc cupping is characteristic of chronic open-angle glaucoma, which develops insidiously rather than with abrupt painful symptoms."
+        },
+        {
+          "letter": "E",
+          "explanation": "Conjunctival injection with watery discharge and preauricular lymphadenopathy is most consistent with viral conjunctivitis, which typically does not cause severe pain, corneal clouding, or markedly elevated intraocular pressure."
+        }
+      ],
+      "teaching_point": "Sudden painful red eye with halos, nausea, cloudy cornea, and a mid-dilated pupil should prompt recognition of acute angle-closure glaucoma."
+    },
+    {
+      "content_area": "Eyes, ears, nose, oral cavity, and throat (EENOT)",
+      "task": "Diagnosis",
+      "topic": "Mastoiditis",
+      "setting": "Inpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 3-year-old boy is admitted for worsening fever and right ear pain. He was seen 5 days ago for acute otitis media and started on amoxicillin, but his ear pain has persisted and his fevers have increased. On examination, he is ill appearing and irritable. Temperature is 39.2\u00b0C (102.6\u00b0F). The right auricle is pushed slightly outward, and the area behind the ear is swollen, erythematous, and tender. Otoscopy shows a bulging, erythematous tympanic membrane on the right. There is no vesicular rash, facial weakness, or neck stiffness.",
+      "lead_in": "Which diagnosis best explains this child's current presentation?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Otitis externa"
+        },
+        {
+          "letter": "B",
+          "text": "Cholesteatoma"
+        },
+        {
+          "letter": "C",
+          "text": "Mastoiditis with subperiosteal abscess"
+        },
+        {
+          "letter": "D",
+          "text": "Uncomplicated acute otitis media"
+        },
+        {
+          "letter": "E",
+          "text": "Meningitis"
+        }
+      ],
+      "correct_answer": "C",
+      "rationale": "This child has acute mastoiditis complicated by a subperiosteal abscess. The key findings are persistent high fever and ear pain after recent acute otitis media, plus postauricular erythema, swelling, tenderness, and outward displacement of the auricle. These findings indicate spread of infection from the middle ear into the mastoid air cells, with extension beneath the periosteum causing a subperiosteal abscess. A bulging, erythematous tympanic membrane supports ongoing middle ear infection as the source.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Otitis externa usually causes pain with manipulation of the pinna or tragus and inflammation of the external auditory canal, not postauricular swelling or a bulging tympanic membrane after recent otitis media."
+        },
+        {
+          "letter": "B",
+          "explanation": "Cholesteatoma is a chronic condition that can cause recurrent otorrhea and conductive hearing loss, but it does not typically present with acute fever, marked postauricular erythema, or auricular displacement."
+        },
+        {
+          "letter": "D",
+          "explanation": "Uncomplicated acute otitis media can cause fever, otalgia, and a bulging tympanic membrane, but it does not cause postauricular swelling, tenderness, or displacement of the auricle."
+        },
+        {
+          "letter": "E",
+          "explanation": "Meningitis can cause fever and irritability, but it would more typically present with neck stiffness, headache, photophobia, or altered mental status rather than localized postauricular inflammation and auricular protrusion."
+        }
+      ],
+      "teaching_point": "Postauricular swelling, tenderness, and auricular protrusion after acute otitis media indicate mastoid involvement; these findings suggest mastoiditis, often with subperiosteal abscess."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Diagnosis",
+      "topic": "Hashimoto thyroiditis",
+      "setting": "Outpatient",
+      "life_course": "Geriatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 72-year-old woman presents to clinic with 6 months of progressive fatigue, constipation, dry skin, and mild weight gain. She also reports feeling \u201cslowed down\u201d and having trouble concentrating. Her daughter says the patient has seemed more forgetful lately. Past history includes hyperlipidemia and osteoarthritis. Medications include atorvastatin, calcium, and acetaminophen. Vital signs are normal except for a heart rate of 58/min. Physical examination shows coarse dry skin, periorbital puffiness, and a diffusely enlarged, nontender thyroid gland. Laboratory studies show a TSH of 18 mIU/L (elevated) and a free T4 below the reference range. Thyroid peroxidase antibodies are elevated.",
+      "lead_in": "Which of the following is the most likely diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Toxic multinodular goiter"
+        },
+        {
+          "letter": "B",
+          "text": "Graves disease"
+        },
+        {
+          "letter": "C",
+          "text": "Subacute granulomatous thyroiditis"
+        },
+        {
+          "letter": "D",
+          "text": "Thyroid hormone resistance"
+        },
+        {
+          "letter": "E",
+          "text": "Hashimoto thyroiditis"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Hashimoto thyroiditis is the most likely diagnosis. This older woman has a chronic hypothyroid presentation with elevated TSH, low free T4, and positive thyroid peroxidase antibodies, which strongly support autoimmune thyroid destruction. The diffuse, nontender goiter is also consistent with Hashimoto thyroiditis.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Toxic multinodular goiter causes hyperthyroidism from autonomous nodules, usually in older adults, but it would produce low TSH and high thyroid hormone levels rather than hypothyroidism with positive thyroid antibodies."
+        },
+        {
+          "letter": "B",
+          "explanation": "Graves disease causes hyperthyroidism with suppressed TSH and elevated T4/T3, often with symptoms such as heat intolerance, tremor, and possible ophthalmopathy, which are not present here."
+        },
+        {
+          "letter": "C",
+          "explanation": "Subacute granulomatous thyroiditis typically causes a painful, tender thyroid and a transient thyrotoxic phase, often following a viral illness; it does not usually present with positive TPO antibodies and persistent hypothyroidism as the primary pattern."
+        },
+        {
+          "letter": "D",
+          "explanation": "Thyroid hormone resistance usually shows elevated free thyroid hormone levels with nonsuppressed TSH, reflecting impaired tissue response, which does not match this patient\u2019s low free T4 and elevated TSH."
+        }
+      ],
+      "teaching_point": "Hashimoto thyroiditis is the most common cause of hypothyroidism in older adults and is suggested by elevated TSH, low free T4, and positive thyroid peroxidase antibodies."
+    },
+    {
+      "content_area": "Rheumatologic/Musculoskeletal",
+      "task": "Clinical Intervention",
+      "topic": "Navicular fracture",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Remember",
+      "vignette": "A 29-year-old man comes to an outpatient clinic 2 days after falling while trail running. He reports persistent midfoot pain that worsens with walking and with pushing off. Exam shows swelling and point tenderness over the dorsum of the midfoot, but no deformity. Plain radiographs reveal a nondisplaced navicular fracture.",
+      "lead_in": "What is the most appropriate initial management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Apply a compression wrap and begin range-of-motion exercises immediately"
+        },
+        {
+          "letter": "B",
+          "text": "Encourage weight bearing as tolerated in a firm-soled shoe"
+        },
+        {
+          "letter": "C",
+          "text": "Discharge with reassurance and follow-up only if pain persists for more than 2 weeks"
+        },
+        {
+          "letter": "D",
+          "text": "Prescribe oral antibiotics and obtain a wound culture"
+        },
+        {
+          "letter": "E",
+          "text": "Immobilize the foot in a short leg cast and arrange prompt orthopedic follow-up"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Navicular fractures are at risk for impaired healing because of the navicular bone\u2019s limited blood supply and the importance of the midfoot for weight bearing. Even a nondisplaced fracture should be immobilized, kept non\u2013weight bearing or protected, and referred promptly for orthopedic follow-up to reduce the risk of nonunion and avascular necrosis.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Early range-of-motion exercises and simple compression are used for some soft tissue injuries, but they are inappropriate for an acute fracture that needs immobilization."
+        },
+        {
+          "letter": "B",
+          "explanation": "Weight bearing in a firm-soled shoe is appropriate for minor foot sprains or some stable toe injuries, but not for a navicular fracture, which requires immobilization and specialist follow-up."
+        },
+        {
+          "letter": "C",
+          "explanation": "Reassurance alone is unsafe because navicular fractures require treatment to prevent complications such as nonunion and chronic midfoot pain."
+        },
+        {
+          "letter": "D",
+          "explanation": "Antibiotics and wound culture are indicated for an open fracture with contamination or signs of infection, neither of which is present here."
+        }
+      ],
+      "teaching_point": "Nondisplaced navicular fractures should be immobilized and referred promptly because of the bone\u2019s tenuous blood supply and risk for poor healing."
+    },
+    {
+      "content_area": "Cardiovascular",
+      "task": "Diagnostic Studies",
+      "topic": "Cardiac tamponade",
+      "setting": "Emergency Department",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 58-year-old man with metastatic lung cancer comes to the emergency department for worsening shortness of breath and chest pressure over 2 days. He is tachycardic at 122/min and hypotensive at 88/56 mm Hg. On exam, his neck veins are distended, heart sounds are muffled, and lung fields are clear. His oxygen saturation is 95% on room air. A bedside monitor shows sinus tachycardia. The clinician suspects a rapidly accumulating pericardial effusion causing hemodynamic compromise.",
+      "lead_in": "Which diagnostic study is the most appropriate next step to confirm the suspected condition and guide urgent management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Serial high-sensitivity troponin measurements"
+        },
+        {
+          "letter": "B",
+          "text": "CT angiography of the chest"
+        },
+        {
+          "letter": "C",
+          "text": "Point-of-care ultrasound of the heart"
+        },
+        {
+          "letter": "D",
+          "text": "Chest radiography"
+        },
+        {
+          "letter": "E",
+          "text": "Ventilation-perfusion scan"
+        }
+      ],
+      "correct_answer": "C",
+      "rationale": "Point-of-care ultrasound of the heart is the best immediate diagnostic study in suspected cardiac tamponade with hemodynamic compromise. It can be performed at the bedside, rapidly identifies pericardial effusion, and can show tamponade physiology such as right atrial or right ventricular diastolic collapse and plethoric inferior vena cava. This makes it the most appropriate study to confirm the diagnosis and expedite urgent drainage when needed.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Serial high-sensitivity troponin measurements may help evaluate for myocardial ischemia or injury, but they do not diagnose tamponade or guide the urgent management needed here."
+        },
+        {
+          "letter": "B",
+          "explanation": "CT angiography can evaluate other causes of chest symptoms, but it is slower, less practical in an unstable patient, and does not provide the fastest bedside confirmation of tamponade physiology."
+        },
+        {
+          "letter": "D",
+          "explanation": "Chest radiography may show an enlarged cardiac silhouette with a large pericardial effusion, but it cannot confirm tamponade physiology or reliably guide immediate intervention."
+        },
+        {
+          "letter": "E",
+          "explanation": "A ventilation-perfusion scan is used to evaluate for pulmonary embolism, which is not the leading concern in this presentation with classic findings of cardiac tamponade."
+        }
+      ],
+      "teaching_point": "In suspected cardiac tamponade with hypotension and elevated jugular venous pressure, bedside cardiac ultrasound is the fastest and most useful diagnostic study because it confirms pericardial effusion and tamponade physiology and helps direct urgent pericardiocentesis."
+    },
+    {
+      "content_area": "Eyes, ears, nose, oral cavity, and throat (EENOT)",
+      "task": "Clinical Therapeutics",
+      "topic": "Malignant (necrotizing) external otitis",
+      "setting": "Inpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 72-year-old man with poorly controlled type 2 diabetes mellitus is admitted for worsening left ear pain and foul-smelling drainage for 3 weeks. He has had severe nocturnal pain that is out of proportion to the ear exam and has not improved with otic antibiotic drops prescribed at urgent care. Examination shows edema and granulation tissue in the external auditory canal, tenderness over the mastoid region, and mild left-sided facial weakness. He is afebrile. CT of the temporal bone shows soft tissue swelling of the external canal with erosion at the skull base.",
+      "lead_in": "Which of the following is the most appropriate next step in management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Begin prolonged intravenous antipseudomonal antibiotics and obtain ENT consultation"
+        },
+        {
+          "letter": "B",
+          "text": "Reassure the patient that the condition is self-limited and continue topical ear drops"
+        },
+        {
+          "letter": "C",
+          "text": "Prescribe a 7-day course of oral amoxicillin-clavulanate and arrange outpatient follow-up"
+        },
+        {
+          "letter": "D",
+          "text": "Perform urgent myringotomy and tympanostomy tube placement"
+        },
+        {
+          "letter": "E",
+          "text": "Start oral corticosteroids and analgesics for presumed Bell palsy"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient has malignant (necrotizing) external otitis, an invasive skull base infection classically seen in older adults with diabetes. Key clues include severe otalgia out of proportion to exam, persistent otorrhea, granulation tissue in the external auditory canal, cranial nerve involvement, and CT evidence of skull base erosion. Management requires prompt hospitalization, ENT involvement, and prolonged antipseudomonal therapy (often IV initially, with duration guided by response and imaging).",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "This is a progressive invasive infection, not a self-limited external ear infection. Topical drops alone are insufficient when there is bony erosion and cranial nerve involvement."
+        },
+        {
+          "letter": "C",
+          "explanation": "Oral amoxicillin-clavulanate is inadequate for suspected skull base osteomyelitis from malignant external otitis, and outpatient treatment is unsafe given cranial nerve involvement and imaging evidence of extension."
+        },
+        {
+          "letter": "D",
+          "explanation": "Myringotomy and tympanostomy tubes are used for middle ear disease such as recurrent otitis media, not for necrotizing infection of the external auditory canal and skull base."
+        },
+        {
+          "letter": "E",
+          "explanation": "Facial weakness here is due to an invasive infection, not isolated idiopathic facial nerve palsy. Corticosteroids alone would delay needed antimicrobial therapy and could worsen infection in a diabetic patient."
+        }
+      ],
+      "teaching_point": "Necrotizing external otitis in an older diabetic patient requires urgent ENT evaluation and prolonged antipseudomonal antibiotics, usually starting intravenously."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Diagnostic Studies",
+      "topic": "Myasthenia gravis",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 42-year-old woman comes to clinic because of 3 months of intermittent double vision and drooping of her eyelids that worsen as the day goes on. She also reports that chewing becomes difficult during dinner and that her voice sounds nasal after speaking for a while. Symptoms improve after rest. Exam shows bilateral ptosis that becomes more pronounced with sustained upward gaze and mild fatigable weakness of neck flexion. Pupils are normal.",
+      "lead_in": "Which diagnostic study is the best initial serum test to help confirm the suspected diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Nerve conduction study with repetitive nerve stimulation"
+        },
+        {
+          "letter": "B",
+          "text": "Lumbar puncture with cerebrospinal fluid analysis"
+        },
+        {
+          "letter": "C",
+          "text": "Serum acetylcholine receptor antibody testing"
+        },
+        {
+          "letter": "D",
+          "text": "Serum creatine kinase level"
+        },
+        {
+          "letter": "E",
+          "text": "Brain MRI with and without contrast"
+        }
+      ],
+      "correct_answer": "C",
+      "rationale": "This patient has fluctuating, fatigable weakness with ocular and bulbar involvement and normal pupils, which is classic for myasthenia gravis. In a stable outpatient, the best initial serum test to help confirm the diagnosis is acetylcholine receptor antibody testing. This test is highly specific and is positive in many patients with generalized myasthenia gravis. If antibody testing is negative and clinical suspicion remains high, electrodiagnostic testing such as repetitive nerve stimulation or single-fiber electromyography, or testing for MuSK/LRP4 antibodies, may be pursued.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Repetitive nerve stimulation can support the diagnosis of myasthenia gravis, but it is an electrophysiologic test rather than a serum test. It is often used when antibody testing is negative, unavailable, or nondiagnostic."
+        },
+        {
+          "letter": "B",
+          "explanation": "Lumbar puncture and cerebrospinal fluid analysis are not indicated for suspected myasthenia gravis; they are more useful for evaluating infection, inflammation, or demyelinating disease."
+        },
+        {
+          "letter": "D",
+          "explanation": "Creatine kinase helps evaluate muscle injury or myopathic disorders such as inflammatory myositis, which typically cause fixed proximal weakness rather than fluctuating fatigable weakness with ptosis."
+        },
+        {
+          "letter": "E",
+          "explanation": "Brain MRI may be appropriate if a central nervous system lesion is suspected, but the fluctuating fatigable weakness and normal pupils point to a neuromuscular junction disorder rather than a structural brain lesion."
+        }
+      ],
+      "teaching_point": "Fluctuating fatigable weakness with ocular and bulbar symptoms and normal pupils should prompt evaluation for myasthenia gravis; in a typical outpatient case, acetylcholine receptor antibody testing is the best initial serum confirmatory study."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Diagnosis",
+      "topic": "Pheochromocytoma",
+      "setting": "Emergency Department",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 42-year-old woman comes to the emergency department for severe pounding headache, palpitations, and sweating that began suddenly while she was at work. She reports similar brief episodes over the past 6 months that have been accompanied by anxiety and tremulousness, but today the symptoms are more intense. On arrival, her blood pressure is 228/126 mmHg and heart rate is 124/min. She looks pale and diaphoretic. Physical examination shows no focal neurologic deficits, and her lungs are clear. Basic metabolic panel is notable for mild hyperglycemia. ECG shows sinus tachycardia without ischemic changes. She has no history of hypertension and takes no daily medications.",
+      "lead_in": "Which diagnosis best explains this patient\u2019s recurrent episodic symptoms and current presentation?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Pheochromocytoma"
+        },
+        {
+          "letter": "B",
+          "text": "Panic disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Cushing syndrome"
+        },
+        {
+          "letter": "D",
+          "text": "Carcinoid syndrome"
+        },
+        {
+          "letter": "E",
+          "text": "Thyroid storm"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "Pheochromocytoma causes episodic catecholamine release leading to paroxysmal hypertension, headache, palpitations, diaphoresis, tremor, and hyperglycemia. The recurrent stereotyped spells over months plus the marked hypertensive crisis in the ED are classic for catecholamine excess from an adrenal medullary tumor.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Panic disorder can present with palpitations, sweating, and anxiety, but it does not cause sustained severe hypertension or the objective catecholamine-type findings seen here, such as marked episodic blood pressure surges and hyperglycemia."
+        },
+        {
+          "letter": "C",
+          "explanation": "Cushing syndrome can cause hypertension and hyperglycemia, but it develops more chronically with features such as central obesity, proximal muscle weakness, striae, and easy bruising rather than abrupt recurrent adrenergic episodes."
+        },
+        {
+          "letter": "D",
+          "explanation": "Carcinoid syndrome can cause episodic flushing, diarrhea, and bronchospasm; it is less consistent with recurrent severe hypertension and the triad of headache, palpitations, and diaphoresis."
+        },
+        {
+          "letter": "E",
+          "explanation": "Thyroid storm can cause tachycardia, hypertension, and diaphoresis, but it usually occurs in a patient with thyrotoxicosis and is typically accompanied by fever, altered mental status, and other signs of severe hypermetabolism rather than recurrent discrete adrenergic spells."
+        }
+      ],
+      "teaching_point": "Recurrent spells of headache, palpitations, diaphoresis, and paroxysmal severe hypertension strongly suggest pheochromocytoma."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Scientific Concepts",
+      "topic": "Acute bacterial meningitis",
+      "setting": "Emergency Department",
+      "life_course": "Pediatric",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 7-year-old boy is brought to the emergency department for fever, headache, and vomiting that began 1 day ago. His parents report that he became increasingly sleepy and irritable overnight. He has not had a rash. On exam, he is febrile, neck flexion causes marked discomfort, and he has photophobia. A lumbar puncture is performed after initial stabilization. Cerebrospinal fluid shows opening pressure 32 cm H2O, WBC 2,400/\u00b5L with 88% neutrophils, protein 220 mg/dL, and glucose 28 mg/dL with a simultaneous serum glucose of 98 mg/dL.",
+      "lead_in": "Which pathophysiologic explanation best accounts for this child\u2019s cerebrospinal fluid profile?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Mycobacterium tuberculosis causes a chronic basilar meningitis that usually presents with lymphocytic pleocytosis, very high protein, and low CSF glucose"
+        },
+        {
+          "letter": "B",
+          "text": "Subarachnoid hemorrhage causes xanthochromia and red blood cells in the CSF, but it does not usually produce marked neutrophilic pleocytosis with hypoglycorrhachia"
+        },
+        {
+          "letter": "C",
+          "text": "Viral infection of the meninges typically produces lymphocytic pleocytosis with normal CSF glucose and mildly elevated protein"
+        },
+        {
+          "letter": "D",
+          "text": "Cryptococcal infection of the meninges typically produces elevated opening pressure and low glucose, but it is more likely in immunocompromised patients and usually shows fewer neutrophils"
+        },
+        {
+          "letter": "E",
+          "text": "Bacterial invasion of the meninges triggers cytokine-mediated inflammation, increasing blood-brain barrier permeability and leading to neutrophilic pleocytosis with low CSF glucose"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This CSF profile is classic for acute bacterial meningitis: elevated opening pressure, marked neutrophilic pleocytosis, high protein, and low CSF glucose relative to serum glucose. Bacterial infection of the meninges provokes cytokine-mediated inflammation that increases blood-brain barrier permeability and recruits neutrophils. The low CSF glucose results mainly from glucose consumption by bacteria and inflammatory cells, with inflammation also impairing normal glucose transfer into the CSF.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Tuberculous meningitis can cause low CSF glucose and high protein, but it is usually more subacute or chronic and often has a lymphocytic predominance rather than the marked neutrophilic pleocytosis shown here."
+        },
+        {
+          "letter": "B",
+          "explanation": "Subarachnoid hemorrhage can cause meningeal irritation and xanthochromia, but the typical CSF finding is red blood cells rather than the marked neutrophilic pleocytosis and low glucose seen in bacterial meningitis."
+        },
+        {
+          "letter": "C",
+          "explanation": "Viral meningitis usually causes a lymphocytic pleocytosis and normal CSF glucose, so it does not fit this neutrophil-predominant, hypoglycorrhachic CSF profile."
+        },
+        {
+          "letter": "D",
+          "explanation": "Cryptococcal meningitis can have elevated opening pressure and low glucose, but it is classically associated with immunocompromise and more often shows a lymphocytic rather than neutrophilic CSF pattern."
+        }
+      ],
+      "teaching_point": "Acute bacterial meningitis classically causes neutrophilic CSF pleocytosis, high protein, and low glucose because inflammation disrupts the blood-brain barrier and increases glucose consumption in the CSF."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "History and Physical",
+      "topic": "Mycoplasma pneumonia",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 24-year-old woman presents to an urgent care clinic with 8 days of dry cough, low-grade fever, headache, and fatigue. She says several coworkers have recently been ill. She has been taking over-the-counter cold medicine without relief. Vital signs are notable for a temperature of 38.1 C (100.6 F), heart rate of 96/min, respiratory rate of 18/min, and oxygen saturation of 98% on room air. Lung examination reveals scattered expiratory crackles without wheezing. She has mild pharyngeal erythema but no tonsillar exudates. Chest radiograph shows patchy, bilateral interstitial infiltrates.",
+      "lead_in": "Which additional history finding would most strongly support the suspected cause of her illness?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "A recent week-long stay in a homeless shelter with several people who had similar respiratory symptoms"
+        },
+        {
+          "letter": "B",
+          "text": "Sudden pleuritic chest pain after prolonged immobilization during a flight"
+        },
+        {
+          "letter": "C",
+          "text": "Fever and cough beginning 2 days after aspiration during alcohol intoxication"
+        },
+        {
+          "letter": "D",
+          "text": "Severe dyspnea with unilateral absent breath sounds after blunt chest trauma"
+        },
+        {
+          "letter": "E",
+          "text": "Productive cough with rust-colored sputum and a shaking chill at onset"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient most likely has atypical pneumonia caused by Mycoplasma pneumoniae. The combination of subacute dry cough, low-grade fever, headache, fatigue, and bilateral interstitial infiltrates in a young adult points to this organism. Mycoplasma spreads through close respiratory contact, especially in crowded settings such as households, schools, dormitories, and shelters. A recent stay in a homeless shelter with others who had similar respiratory symptoms is therefore the historical finding that most strongly supports this diagnosis.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "This history suggests pulmonary embolism due to prolonged immobilization and pleuritic chest pain, not Mycoplasma pneumonia."
+        },
+        {
+          "letter": "C",
+          "explanation": "Aspiration after alcohol intoxication points to aspiration pneumonia or chemical pneumonitis, which is a different process from Mycoplasma infection acquired by respiratory spread."
+        },
+        {
+          "letter": "D",
+          "explanation": "This describes traumatic pneumothorax, which can cause acute dyspnea and unilateral absent breath sounds, but it does not support an atypical infectious pneumonia."
+        },
+        {
+          "letter": "E",
+          "explanation": "Rust-colored sputum with abrupt shaking chills is more typical of pneumococcal community-acquired pneumonia than Mycoplasma pneumonia."
+        }
+      ],
+      "teaching_point": "Mycoplasma pneumoniae causes atypical pneumonia with dry cough, low-grade fever, and interstitial infiltrates; epidemiologic clues include close contact in crowded settings such as shelters, schools, dormitories, or households."
+    },
+    {
+      "content_area": "Cardiovascular",
+      "task": "Health Maintenance",
+      "topic": "Marfan syndrome",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 29-year-old man with known Marfan syndrome comes to clinic for routine follow-up. He feels well and runs lightly for exercise, but he has occasionally noticed brief sharp chest discomfort after intense exertion. He has no shortness of breath, syncope, or palpitations. Exam shows tall stature, long extremities, a high-arched palate, and a mid-systolic click. Blood pressure is 118/72 mm Hg and pulse is 76/min. He asks what ongoing monitoring is most important to reduce the risk of serious complications.",
+      "lead_in": "Which recommendation is the most appropriate part of his ongoing health maintenance?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Begin aspirin therapy to lower the risk of aortic dissection"
+        },
+        {
+          "letter": "B",
+          "text": "Schedule annual carotid duplex ultrasonography to screen for aneurysm formation"
+        },
+        {
+          "letter": "C",
+          "text": "Obtain monthly Holter monitoring to detect early ventricular arrhythmias"
+        },
+        {
+          "letter": "D",
+          "text": "Repeat stress testing every 6 months to screen for coronary artery disease"
+        },
+        {
+          "letter": "E",
+          "text": "Obtain periodic echocardiography to monitor the aortic root diameter"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Patients with Marfan syndrome are at increased risk for progressive aortic root dilation and aortic dissection. Routine surveillance with echocardiography is an important health maintenance measure to monitor aortic root size over time and guide activity recommendations and medical or surgical intervention. This patient is stable in the outpatient setting, so periodic imaging surveillance is the most appropriate preventive strategy.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Aspirin does not prevent aortic dilation or dissection in Marfan syndrome. Risk reduction focuses on surveillance imaging, blood pressure control, and sometimes beta-blocker or ARB therapy."
+        },
+        {
+          "letter": "B",
+          "explanation": "Carotid duplex ultrasonography is not a routine screening test for Marfan syndrome. The major vascular complication to monitor is aortic root enlargement, which is evaluated with echocardiography or other aortic imaging when indicated."
+        },
+        {
+          "letter": "C",
+          "explanation": "Routine monthly Holter monitoring is not recommended for asymptomatic Marfan syndrome patients. Arrhythmia surveillance is not the primary preventive concern compared with aortic disease monitoring."
+        },
+        {
+          "letter": "D",
+          "explanation": "Stress testing is not a screening tool for Marfan-related cardiovascular complications. Coronary artery disease is not the main health maintenance issue in this patient; aortic surveillance is."
+        }
+      ],
+      "teaching_point": "In Marfan syndrome, ongoing outpatient care should prioritize periodic aortic root surveillance, usually with echocardiography."
+    },
+    {
+      "content_area": "Gastrointestinal",
+      "task": "Diagnostic Studies",
+      "topic": "Hirschsprung disease",
+      "setting": "Outpatient",
+      "life_course": "Pediatric",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 3-week-old boy is brought to the pediatric clinic because he has not passed stool for 4 days and has had progressive abdominal distension. He fed well in the first week of life, but his parents report that he has had intermittent vomiting and very small, foul-smelling stools after rectal stimulation at home. He was born at term, and there is no family history of bowel disease. On exam, he appears uncomfortable with a moderately distended abdomen. Rectal exam produces a gush of stool and gas followed by temporary relief of distension.",
+      "lead_in": "Which diagnostic study is most appropriate as the initial study to support the suspected diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Anorectal manometry"
+        },
+        {
+          "letter": "B",
+          "text": "Contrast enema"
+        },
+        {
+          "letter": "C",
+          "text": "Hepatobiliary iminodiacetic acid (HIDA) scan"
+        },
+        {
+          "letter": "D",
+          "text": "Upper gastrointestinal series"
+        },
+        {
+          "letter": "E",
+          "text": "Abdominal ultrasound"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "Contrast enema is the most appropriate initial study when Hirschsprung disease is suspected. It may show a transition zone between the dilated proximal colon and the narrow distal aganglionic segment, which supports the diagnosis and helps guide further evaluation. Rectal suction biopsy is the definitive diagnostic test because it demonstrates absence of ganglion cells, but the question asks for the best initial study to support the suspected diagnosis, making contrast enema the correct choice.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Anorectal manometry can demonstrate absence of the rectoanal inhibitory reflex and may be used in older infants or children, but it is not the preferred initial study in a symptomatic neonate with suspected Hirschsprung disease."
+        },
+        {
+          "letter": "C",
+          "explanation": "A HIDA scan assesses biliary excretion and is used for suspected biliary atresia or other causes of neonatal cholestasis, not neonatal bowel obstruction or Hirschsprung disease."
+        },
+        {
+          "letter": "D",
+          "explanation": "An upper gastrointestinal series is used to evaluate malrotation, volvulus, or proximal intestinal obstruction, which does not match this infant\u2019s presentation of distal functional obstruction."
+        },
+        {
+          "letter": "E",
+          "explanation": "Abdominal ultrasound is useful for conditions such as pyloric stenosis or intussusception, but it does not evaluate distal colonic aganglionosis and would not support the diagnosis of Hirschsprung disease."
+        }
+      ],
+      "teaching_point": "In suspected Hirschsprung disease, contrast enema is the best initial supportive study, while rectal suction biopsy is the definitive diagnostic test."
+    },
+    {
+      "content_area": "Renal/Genitourinary",
+      "task": "Clinical Intervention",
+      "topic": "Renal Cell Carcinoma",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 62-year-old man is evaluated in clinic after an abdominal ultrasound obtained for intermittent right flank discomfort incidentally shows a 4.8-cm solid mass in the upper pole of the left kidney. He has no fever, dysuria, or weight loss. He has a 25-pack-year smoking history and well-controlled hypertension. Physical examination is unremarkable. Serum creatinine is 1.0 mg/dL, and urinalysis shows microscopic hematuria. Contrast-enhanced CT of the abdomen confirms a 5.0-cm enhancing renal mass confined to the kidney with no renal vein invasion or metastatic disease. He is otherwise healthy and asks what should be done next.",
+      "lead_in": "What is the most appropriate next step in management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Start neoadjuvant sunitinib before definitive therapy"
+        },
+        {
+          "letter": "B",
+          "text": "Perform percutaneous needle biopsy before any intervention"
+        },
+        {
+          "letter": "C",
+          "text": "Begin active surveillance with repeat imaging in 6 months"
+        },
+        {
+          "letter": "D",
+          "text": "Refer for partial nephrectomy with renal-preserving intent"
+        },
+        {
+          "letter": "E",
+          "text": "Schedule radical nephrectomy as the initial treatment"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has a localized, enhancing renal mass consistent with renal cell carcinoma, measuring 5.0 cm and confined to the kidney (clinical stage T1b). In a healthy patient with a localized tumor, the preferred management is surgical resection, with partial nephrectomy favored when technically feasible because it preserves renal function while providing oncologic control. A biopsy is usually not required before definitive surgery when imaging strongly suggests RCC in a surgically fit patient. Radical nephrectomy is generally reserved for tumors not amenable to nephron-sparing surgery or more extensive disease. Surveillance is more appropriate for small renal masses in selected older or frail patients, not for a healthy adult with a 5-cm lesion. Neoadjuvant targeted therapy is not standard initial treatment for localized RCC.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Sunitinib is a systemic therapy used in advanced or metastatic RCC, not as neoadjuvant treatment for a localized renal mass that is already resectable."
+        },
+        {
+          "letter": "B",
+          "explanation": "Percutaneous biopsy can be useful when imaging is indeterminate or when results would change management, but a classic enhancing localized renal mass in a surgical candidate is typically treated definitively without preoperative biopsy."
+        },
+        {
+          "letter": "C",
+          "explanation": "Active surveillance is mainly considered for small renal masses, significant comorbidity, or limited life expectancy. This patient is healthy and has a 5-cm enhancing lesion, making immediate definitive treatment more appropriate."
+        },
+        {
+          "letter": "E",
+          "explanation": "Radical nephrectomy is not the preferred initial approach for a localized 5-cm tumor when partial nephrectomy is feasible. Nephron-sparing surgery is favored to preserve renal function in appropriate candidates."
+        }
+      ],
+      "teaching_point": "For a localized enhancing renal mass in a fit adult, partial nephrectomy is preferred when feasible to preserve renal function."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Clinical Therapeutics",
+      "topic": "Diabetes mellitus type 2",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Remember",
+      "vignette": "A 54-year-old man with type 2 diabetes mellitus returns for routine follow-up in clinic. He has been taking metformin 1000 mg twice daily for 8 months, following a calorie-controlled diet, and walking most days of the week. His A1c today is 8.4%. His estimated glomerular filtration rate is 78 mL/min/1.73 m2, he has no history of pancreatitis, and his body mass index is 34 kg/m2. After discussing options for additional therapy, he says he would most like a medication that can help with both glycemic control and weight loss.",
+      "lead_in": "Which medication is the best next step to add to his current regimen?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Pioglitazone"
+        },
+        {
+          "letter": "B",
+          "text": "Glipizide"
+        },
+        {
+          "letter": "C",
+          "text": "Insulin glargine"
+        },
+        {
+          "letter": "D",
+          "text": "Empagliflozin"
+        },
+        {
+          "letter": "E",
+          "text": "Liraglutide"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "Liraglutide is a glucagon-like peptide-1 (GLP-1) receptor agonist and is a good add-on to metformin in type 2 diabetes when additional A1c lowering and weight loss are desired. In this patient, it is especially appropriate because he is obese and specifically wants a medication that can aid with weight loss. Although empagliflozin is also an appropriate add-on option and can promote some weight loss, GLP-1 receptor agonists generally produce greater weight reduction and are a strong choice when weight loss is a priority.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Pioglitazone can improve glycemic control, but it commonly causes weight gain and fluid retention, making it a poor match for a patient trying to lose weight."
+        },
+        {
+          "letter": "B",
+          "explanation": "Glipizide can reduce A1c, but sulfonylureas are associated with hypoglycemia and weight gain, so they are less desirable when weight loss is a goal."
+        },
+        {
+          "letter": "C",
+          "explanation": "Insulin glargine lowers glucose effectively but is not the best next step here because the patient is not severely hyperglycemic, does not have catabolic symptoms, and is specifically seeking an option that may also help with weight loss."
+        },
+        {
+          "letter": "D",
+          "explanation": "Empagliflozin is a reasonable add-on therapy after metformin and may cause modest weight loss, but liraglutide is preferred here because the patient specifically wants a medication that helps with weight loss and GLP-1 receptor agonists generally have a stronger weight-loss effect."
+        }
+      ],
+      "teaching_point": "When type 2 diabetes remains above goal on metformin, a GLP-1 receptor agonist is an excellent add-on option for patients with obesity who want improved glycemic control and weight loss."
+    },
+    {
+      "content_area": "Endocrine",
+      "task": "Diagnostic Studies",
+      "topic": "Primary aldosteronism",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 46-year-old woman comes to clinic for persistently elevated blood pressure despite taking amlodipine and hydrochlorothiazide. She reports mild muscle cramps but no chest pain, palpitations, or headaches. Blood pressure is 162/98 mm Hg. Basic metabolic panel shows potassium 3.1 mEq/L and bicarbonate 31 mEq/L. Creatinine is normal. She does not use licorice, steroids, or over-the-counter decongestants. On repeat measurement, her blood pressure remains elevated.",
+      "lead_in": "Which outpatient diagnostic study is the most appropriate next step to evaluate for the suspected cause of her hypertension and hypokalemia?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Plasma aldosterone concentration and plasma renin activity to calculate an aldosterone-to-renin ratio"
+        },
+        {
+          "letter": "B",
+          "text": "Renal artery Doppler ultrasonography"
+        },
+        {
+          "letter": "C",
+          "text": "Low-dose dexamethasone suppression test"
+        },
+        {
+          "letter": "D",
+          "text": "Plasma fractionated metanephrines"
+        },
+        {
+          "letter": "E",
+          "text": "24-hour urinary free cortisol level"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This patient has hypertension with hypokalemia and metabolic alkalosis, which strongly suggests primary aldosteronism. The appropriate initial outpatient screening test is the plasma aldosterone concentration and plasma renin activity, used to calculate the aldosterone-to-renin ratio. An elevated ratio indicates autonomous aldosterone production and prompts confirmatory testing. Because potassium depletion and several antihypertensive medications can affect the result, potassium should be corrected and medication effects considered when interpreting the test.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Renal artery Doppler ultrasonography evaluates renovascular hypertension, which is a possible secondary cause of hypertension but does not specifically address the classic combination of hypertension, hypokalemia, and metabolic alkalosis seen here."
+        },
+        {
+          "letter": "C",
+          "explanation": "The low-dose dexamethasone suppression test screens for Cushing syndrome, not primary aldosteronism."
+        },
+        {
+          "letter": "D",
+          "explanation": "Plasma fractionated metanephrines are used to evaluate pheochromocytoma, which typically presents with episodic headache, diaphoresis, palpitations, and labile blood pressure rather than persistent hypertension with hypokalemia."
+        },
+        {
+          "letter": "E",
+          "explanation": "A 24-hour urinary free cortisol level is a screening test for Cushing syndrome. Although Cushing syndrome can cause hypertension, this patient\u2019s hypokalemic metabolic alkalosis is more characteristic of primary aldosteronism."
+        }
+      ],
+      "teaching_point": "In adults with hypertension plus hypokalemia, the first outpatient screening test for primary aldosteronism is the aldosterone-to-renin ratio, with attention to potassium status and medication effects."
+    },
+    {
+      "content_area": "Gynecologic/Reproductive Health",
+      "task": "Diagnosis",
+      "topic": "Leiomyoma",
+      "setting": "Perioperative",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 44-year-old woman is seen for preoperative evaluation before a planned laparoscopic hysterectomy for heavy menstrual bleeding. For 2 years, she has had progressively heavier menses with clots and pelvic pressure. She has no intermenstrual bleeding, no postcoital bleeding, and no weight loss. She is otherwise healthy. Pelvic exam shows a firm, irregularly enlarged uterus that is mobile and mildly tender. Hemoglobin is 9.8 g/dL. Transvaginal ultrasound shows a uterus enlarged by several well-circumscribed, hypoechoic intramural masses that distort the contour of the uterine body; the ovaries are normal.",
+      "lead_in": "Which diagnosis best explains this patient\u2019s symptoms and imaging findings?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Endometrial polyp"
+        },
+        {
+          "letter": "B",
+          "text": "Uterine leiomyoma"
+        },
+        {
+          "letter": "C",
+          "text": "Adenomyosis"
+        },
+        {
+          "letter": "D",
+          "text": "Pelvic inflammatory disease"
+        },
+        {
+          "letter": "E",
+          "text": "Endometrial carcinoma"
+        }
+      ],
+      "correct_answer": "B",
+      "rationale": "Uterine leiomyomas are benign smooth muscle tumors that commonly cause heavy regular menstrual bleeding, pelvic pressure, and an enlarged, irregularly contoured uterus. Ultrasound typically shows well-circumscribed, hypoechoic uterine masses. In this patient, the chronic heavy menses with clots, pressure symptoms, firm irregular uterus, and classic intramural masses on ultrasound are most consistent with fibroids. The absence of intermenstrual or postcoital bleeding makes an endometrial or cervical source less likely, and the normal ovaries support a uterine rather than adnexal process.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Endometrial polyps can cause abnormal uterine bleeding, often intermenstrual bleeding, but they are focal intrauterine lesions rather than multiple intramural masses distorting the uterine contour."
+        },
+        {
+          "letter": "C",
+          "explanation": "Adenomyosis can cause heavy, painful menses and a boggy, enlarged uterus, but it more often causes diffuse uterine enlargement rather than multiple well-circumscribed intramural masses on ultrasound."
+        },
+        {
+          "letter": "D",
+          "explanation": "Pelvic inflammatory disease typically presents with pelvic pain, cervical motion tenderness, fever, discharge, or adnexal tenderness, not a chronic pattern of heavy cyclic bleeding with a firm irregular uterus and fibroid-appearing ultrasound findings."
+        },
+        {
+          "letter": "E",
+          "explanation": "Endometrial carcinoma is more concerning with postmenopausal bleeding, persistent abnormal uterine bleeding, or risk factors such as obesity and unopposed estrogen; this patient\u2019s presentation is more typical of a benign myometrial mass."
+        }
+      ],
+      "teaching_point": "Leiomyomas classically cause heavy menstrual bleeding and a firm, irregularly enlarged uterus with well-circumscribed hypoechoic masses on ultrasound."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Clinical Intervention",
+      "topic": "Traumatic brain injury",
+      "setting": "Perioperative",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 34-year-old man is brought to the operating room for urgent decompressive craniectomy after a severe motor vehicle collision. Earlier in the emergency department, head CT showed a right subdural hematoma with a 9-mm midline shift. He is intubated and mechanically ventilated. Just before incision, his heart rate is 48/min, blood pressure is 198/96 mm Hg, and oxygen saturation is 99% on 40% FiO2. The anesthesia team notes that he becomes more bradycardic and hypertensive when the surgical drapes are placed.",
+      "lead_in": "Which immediate perioperative intervention is most appropriate to help reduce intracranial pressure and prevent secondary brain injury while definitive decompression is underway?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Start phenylephrine to maintain cerebral perfusion pressure"
+        },
+        {
+          "letter": "B",
+          "text": "Increase end-tidal carbon dioxide to improve cerebral blood flow"
+        },
+        {
+          "letter": "C",
+          "text": "Place the patient in the Trendelenburg position to improve cerebral perfusion"
+        },
+        {
+          "letter": "D",
+          "text": "Administer hypertonic saline to lower intracranial pressure"
+        },
+        {
+          "letter": "E",
+          "text": "Initiate nitrous oxide to reduce anesthetic requirements"
+        }
+      ],
+      "correct_answer": "D",
+      "rationale": "This patient has severe traumatic brain injury with radiographic mass effect and perioperative bradycardia plus hypertension, concerning for markedly elevated intracranial pressure. Hypertonic saline is an appropriate immediate temporizing therapy because it reduces cerebral edema and can lower intracranial pressure while the patient is being prepared for definitive surgical decompression. In the operating room, this should occur alongside other supportive measures such as maintaining oxygenation, avoiding hypotension, and targeting normocapnia.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Phenylephrine may be used to support blood pressure and cerebral perfusion pressure if hypotension develops, but it does not directly lower intracranial pressure. In a patient with signs of intracranial hypertension, osmotherapy is the more appropriate immediate temporizing measure."
+        },
+        {
+          "letter": "B",
+          "explanation": "Increasing carbon dioxide causes cerebral vasodilation, which increases cerebral blood flow and can worsen intracranial pressure. Normocapnia is generally preferred in severe traumatic brain injury."
+        },
+        {
+          "letter": "C",
+          "explanation": "Trendelenburg positioning increases venous congestion in the head and can worsen intracranial pressure. Head elevation is preferred when feasible to facilitate venous drainage."
+        },
+        {
+          "letter": "E",
+          "explanation": "Nitrous oxide increases cerebral blood flow and can raise intracranial pressure, so it should be avoided in severe traumatic brain injury or suspected intracranial hypertension."
+        }
+      ],
+      "teaching_point": "In severe traumatic brain injury with signs of intracranial hypertension, use temporizing measures that lower intracranial pressure, such as hypertonic saline, while avoiding interventions that increase cerebral blood flow or venous congestion."
+    },
+    {
+      "content_area": "Cardiovascular",
+      "task": "Diagnostic Studies",
+      "topic": "Aortic dissection",
+      "setting": "Inpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Analyze and Evaluate",
+      "vignette": "A 58-year-old man is admitted for sudden-onset severe chest pain that began while he was lifting a heavy box. He describes the pain as \u201ctearing\u201d and says it radiates to his back. He is diaphoretic and anxious. Blood pressure is 176/92 mm Hg in the right arm and 154/88 mm Hg in the left arm. Heart rate is 108/min. Examination shows a new early diastolic murmur best heard along the left sternal border. His creatinine is 1.4 mg/dL. ECG shows nonspecific ST-T changes, and serial troponins are negative. The patient remains hemodynamically stable after initial pain control.",
+      "lead_in": "Which diagnostic study is the most appropriate next step to confirm the suspected diagnosis?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "CT angiography of the chest with contrast"
+        },
+        {
+          "letter": "B",
+          "text": "Stress myocardial perfusion imaging"
+        },
+        {
+          "letter": "C",
+          "text": "Transesophageal echocardiography"
+        },
+        {
+          "letter": "D",
+          "text": "Coronary angiography"
+        },
+        {
+          "letter": "E",
+          "text": "Chest radiograph"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "CT angiography of the chest with contrast is the most appropriate next diagnostic study in a hemodynamically stable patient with suspected aortic dissection. This patient has several high-risk features, including abrupt tearing chest pain radiating to the back, inter-arm blood pressure difference, and a new diastolic murmur suggesting aortic regurgitation. CT angiography provides rapid, highly sensitive visualization of the aorta and helps define the extent of the dissection for urgent management planning.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Stress myocardial perfusion imaging is inappropriate because acute aortic dissection must be excluded first and exercise or pharmacologic stress could worsen the condition."
+        },
+        {
+          "letter": "C",
+          "explanation": "Transesophageal echocardiography is also useful for diagnosing aortic dissection, especially if the patient is unstable or cannot receive contrast. However, this patient is stable, making CT angiography the preferred confirmatory study in most inpatient settings."
+        },
+        {
+          "letter": "D",
+          "explanation": "Coronary angiography is used to evaluate acute coronary syndrome, but this presentation is more concerning for aortic dissection than myocardial ischemia, and invasive arterial instrumentation is not the first confirmatory test here."
+        },
+        {
+          "letter": "E",
+          "explanation": "Chest radiograph may show a widened mediastinum or pleural effusion, but it is neither sensitive nor specific enough to confirm the diagnosis and should not replace definitive vascular imaging."
+        }
+      ],
+      "teaching_point": "In a stable patient with suspected aortic dissection, CT angiography is the preferred confirmatory test; unstable patients may need transesophageal echocardiography instead."
+    },
+    {
+      "content_area": "Neurologic",
+      "task": "Clinical Intervention",
+      "topic": "Subdural hemorrhage",
+      "setting": "Outpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 72-year-old man is seen in a primary care clinic by his daughter for worsening headaches and intermittent confusion over the past 3 weeks. He slipped on ice and struck the left side of his head about 1 month ago, but he did not lose consciousness and did not seek care. Since then, he has become increasingly forgetful, has had two brief episodes of stumbling, and today reports mild right-hand clumsiness. He takes daily aspirin for coronary artery disease. In the office, he is awake and oriented but slower to answer questions than usual. Vital signs are normal. Neurologic exam shows mild right pronator drift and a slightly unsteady gait.",
+      "lead_in": "What is the most appropriate next step in management?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Send him to the emergency department for urgent noncontrast head CT; obtain neurosurgical consultation if imaging confirms hemorrhage or if symptoms worsen"
+        },
+        {
+          "letter": "B",
+          "text": "Reassure the patient that postconcussive symptoms commonly last for several weeks and schedule routine follow-up"
+        },
+        {
+          "letter": "C",
+          "text": "Order brain MRI as an outpatient because it is more sensitive than CT for chronic subdural blood"
+        },
+        {
+          "letter": "D",
+          "text": "Arrange an outpatient noncontrast head CT within the next week and advise close follow-up unless symptoms worsen"
+        },
+        {
+          "letter": "E",
+          "text": "Increase his aspirin dose to reduce the risk of transient ischemic attack"
+        }
+      ],
+      "correct_answer": "A",
+      "rationale": "This older adult has a classic presentation concerning for chronic subdural hematoma: minor head trauma several weeks earlier, followed by progressive headache, confusion, gait instability, and focal neurologic findings. The most appropriate next step is urgent emergency evaluation with noncontrast head CT because imaging is needed promptly to confirm intracranial bleeding. If a hemorrhage is found, neurosurgical consultation is indicated for possible drainage; urgent consultation is also warranted if neurologic status worsens. Waiting for outpatient imaging would be unsafe.",
+      "distractor_rationales": [
+        {
+          "letter": "B",
+          "explanation": "Postconcussive symptoms do not explain progressive confusion, gait disturbance, and focal neurologic deficits weeks after trauma in an older adult. This presentation is concerning for chronic subdural hematoma."
+        },
+        {
+          "letter": "C",
+          "explanation": "MRI can detect chronic subdural blood, but it should not delay urgent evaluation. Noncontrast head CT is the preferred initial test because it is rapid and readily available in this setting."
+        },
+        {
+          "letter": "D",
+          "explanation": "Outpatient imaging is too slow for a patient with progressive neurologic symptoms and focal deficits after head trauma. He needs immediate emergency evaluation."
+        },
+        {
+          "letter": "E",
+          "explanation": "Increasing aspirin would raise bleeding risk and does not address a presentation that is concerning for intracranial hemorrhage rather than ischemia."
+        }
+      ],
+      "teaching_point": "In an older adult with delayed, progressive headache, confusion, gait change, or focal deficits after even minor head trauma, urgent noncontrast head CT is needed to evaluate for chronic subdural hematoma, with neurosurgical involvement if hemorrhage is present."
+    },
+    {
+      "content_area": "Pulmonary",
+      "task": "Clinical Intervention",
+      "topic": "Tension pneumothorax",
+      "setting": "Inpatient",
+      "life_course": "Adult",
+      "cognitive_level": "Understand and Apply",
+      "vignette": "A 67-year-old man is admitted to the hospital for severe community-acquired pneumonia requiring positive-pressure ventilation. Two hours after intubation, he becomes acutely restless and dyspneic. His blood pressure drops to 78/46 mm Hg, heart rate increases to 132/min, and oxygen saturation falls to 84% despite 100% FiO2. Examination shows absent breath sounds on the right, distended neck veins, and a trachea that appears slightly deviated to the left. The endotracheal tube is in the expected position and bilateral chest rise is now asymmetric.",
+      "lead_in": "What is the most appropriate immediate intervention?",
+      "answer_choices": [
+        {
+          "letter": "A",
+          "text": "Administer intravenous furosemide for presumed flash pulmonary edema"
+        },
+        {
+          "letter": "B",
+          "text": "Obtain an urgent portable chest radiograph before intervening"
+        },
+        {
+          "letter": "C",
+          "text": "Increase positive-end expiratory pressure to improve oxygenation"
+        },
+        {
+          "letter": "D",
+          "text": "Order CT angiography of the chest to evaluate for pulmonary embolism"
+        },
+        {
+          "letter": "E",
+          "text": "Perform emergent needle decompression of the right chest followed by tube thoracostomy"
+        }
+      ],
+      "correct_answer": "E",
+      "rationale": "This patient has an acute tension pneumothorax after positive-pressure ventilation, suggested by sudden hypoxemia and hypotension, unilateral absent breath sounds, distended neck veins, and tracheal deviation. Tension pneumothorax is a clinical diagnosis and requires immediate decompression without waiting for imaging. Needle decompression provides rapid temporary relief, followed by definitive chest tube placement on the affected side.",
+      "distractor_rationales": [
+        {
+          "letter": "A",
+          "explanation": "Flash pulmonary edema typically causes diffuse crackles and bilateral infiltrates rather than unilateral absent breath sounds, neck vein distention, and tracheal deviation."
+        },
+        {
+          "letter": "B",
+          "explanation": "A chest radiograph may confirm the diagnosis in a stable patient, but imaging should not delay decompression in a hemodynamically unstable patient with suspected tension pneumothorax."
+        },
+        {
+          "letter": "C",
+          "explanation": "Increasing positive pressure can worsen intrathoracic pressure and further impair venous return, making tension pneumothorax more severe."
+        },
+        {
+          "letter": "D",
+          "explanation": "Pulmonary embolism can cause hypoxemia and shock, but it does not explain the unilateral absent breath sounds, asymmetric chest rise, or tracheal deviation in this unstable post-intubation patient. CT angiography would delay life-saving treatment."
+        }
+      ],
+      "teaching_point": "In suspected tension pneumothorax, immediate decompression is the priority; do not wait for confirmatory imaging in an unstable patient."
+    }
+  ]
+}

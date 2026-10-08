@@ -53,7 +53,7 @@ REQUIREMENTS:
 - Preserve the assigned content area.
 - Preserve the assigned topic.
 - Preserve the assigned task.
-- Preserve the clinical setting unless changing it is necessary.
+- Preserve the original clinical setting exactly. Do not change it during revision.
 - Preserve the life-course category.
 - Preserve the cognitive level.
 

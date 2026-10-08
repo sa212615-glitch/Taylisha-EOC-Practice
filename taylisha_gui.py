@@ -2,6 +2,7 @@ import random
 import streamlit as st
 
 from agents.item_generator import load_targets, generate_item
+from question_bank import load_question_bank
 from agents.item_quality import approve_item
 from app import save_json, select_eoc_context, OUTPUT_DIR
 
@@ -49,7 +50,7 @@ for key, value in defaults.items():
 # ============================================================
 
 def start_session(database, mode_name):
-    targets = load_targets(database)
+    targets = load_question_bank()
     targets = targets.copy()
     random.shuffle(targets)
 
@@ -71,107 +72,13 @@ def start_session(database, mode_name):
 # ============================================================
 
 def generate_current_question():
+    index = st.session_state.question_index
+    questions = st.session_state.targets
 
-    while st.session_state.question_index < len(st.session_state.targets):
-
-        target = st.session_state.targets[
-            st.session_state.question_index
-        ]
-
-        setting, life_course, cognitive_level = select_eoc_context(
-            target["topic"]
-        )
-
-        max_generation_attempts = 3
-        final_item = None
-
-        progress_box = st.status(
-            "Creating and clinically reviewing question...",
-            expanded=True,
-        )
-
-        for generation_attempt in range(
-            1, max_generation_attempts + 1
-        ):
-
-            if generation_attempt == 1:
-                progress_box.write(
-                    "Generating practice item..."
-                )
-            else:
-                progress_box.write(
-                    f"Regenerating same target "
-                    f"(attempt {generation_attempt}/"
-                    f"{max_generation_attempts})..."
-                )
-
-            generated_item = generate_item(
-                target,
-                setting=setting,
-                life_course=life_course,
-                cognitive_level=cognitive_level,
-            )
-
-            save_json(
-                generated_item,
-                "latest_item.json",
-            )
-
-            progress_box.write(
-                "Running independent clinical review..."
-            )
-
-            (OUTPUT_DIR / "final_item.json").unlink(
-                missing_ok=True
-            )
-            (OUTPUT_DIR / "latest_review.json").unlink(
-                missing_ok=True
-            )
-            (
-                OUTPUT_DIR / "latest_review_history.json"
-            ).unlink(missing_ok=True)
-
-            final_item = approve_item(
-                generated_item,
-                save_json,
-            )
-
-            if final_item is not None:
-                progress_box.update(
-                    label="Question approved",
-                    state="complete",
-                    expanded=False,
-                )
-                break
-
-            if generation_attempt < max_generation_attempts:
-                progress_box.write(
-                    "Item withheld. Generating a new item "
-                    "for the same target..."
-                )
-
-        if final_item is not None:
-            st.session_state.current_item = final_item
-            st.session_state.answered = False
-            st.session_state.selected_answer = None
-            return
-
-        st.session_state.withheld_count += 1
-        st.session_state.question_index += 1
-
-        progress_box.update(
-            label=(
-                "Target withheld after 3 attempts. "
-                "Moving to next target."
-            ),
-            state="error",
-            expanded=False,
-        )
-
-
-# ============================================================
-# NEXT QUESTION
-# ============================================================
+    if index < len(questions):
+        st.session_state.current_item = questions[index]
+        st.session_state.answered = False
+        st.session_state.selected_answer = None
 
 def next_question():
     st.session_state.question_index += 1
