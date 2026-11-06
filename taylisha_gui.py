@@ -1,5 +1,6 @@
 import random
 import streamlit as st
+from exam_features import highlight_vignette, download_progress, resume_progress
 
 from agents.item_generator import load_targets, generate_item
 from question_bank import load_question_bank
@@ -16,6 +17,12 @@ st.set_page_config(
     page_icon="🩺",
     layout="wide",
 )
+
+from login_ui import show_login
+
+if "user" not in st.session_state:
+    show_login()
+    st.stop()
 
 st.title("PA EOC Practice")
 st.caption(
@@ -261,7 +268,7 @@ st.subheader(
 
 st.markdown("### Vignette")
 
-st.write(item.vignette)
+highlight_vignette(item.vignette, st.session_state.question_index + 1)
 
 st.markdown("### Question")
 
@@ -356,6 +363,11 @@ if st.session_state.answered:
 with st.sidebar:
 
     st.header("Session")
+
+    st.subheader("Save & Resume")
+    download_progress()
+    resume_progress()
+    st.divider()
 
     st.write(
         f"**Mode:** {st.session_state.mode}"
